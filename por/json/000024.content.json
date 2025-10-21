@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 296249,
+    "reference_id": 134114,
+    "title": "24. João batiza Jesus",
+    "media_type": "Text",
+    "index_reference": "24. joão batiza jesus",
+    "language": "por",
+    "content": "<h1>24. João batiza Jesus</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-01.jpg\" alt=\"OBS Image\"><p>João, o filho de Zacarias e Isabel, cresceu e tornou-se profeta. Ele vivia no deserto, comia mel silvestre e gafanhotos e vestia roupas feitas de pelo de camelo.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-02.jpg\" alt=\"OBS Image\"><p>Muitas pessoas iam ao deserto para ouvir o que João falava. Ele dizia: “Arrependam-se, porque o reino de Deus está chegando!”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-03.jpg\" alt=\"OBS Image\"><p>Quando ouviam a mensagem de João, muitas pessoas se arrependiam dos seus pecados e João as batizava. Muitos líderes religiosos também vieram para serem batizados por João, mas eles não se arrependiam nem confessavam seus pecados.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-04.jpg\" alt=\"OBS Image\"><p>João disse aos líderes religiosos: “Vocês são cobras venenosas! Arrependam-se e mudem seu comportamento. Toda árvore que não produz bom fruto será cortada e jogada no fogo&quot;. João cumpriu o que os profetas haviam dito: “Veja, eu envio Meu mensageiro à Sua frente que preparará o Seu caminho&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-05.jpg\" alt=\"OBS Image\"><p>Alguns judeus perguntaram a João se ele era o Messias. João respondeu: “Eu não sou o Messias, mas há Alguém vindo depois de mim. Ele é tão grandioso que eu não mereço nem tirar as Suas sandálias&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-06.jpg\" alt=\"OBS Image\"><p>No dia seguinte, Jesus veio ser batizado por João. Quando João o viu, disse: “Vejam! Este é o Cordeiro de Deus que tira o pecado do mundo!”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-07.jpg\" alt=\"OBS Image\"><p>João disse a Jesus: “Eu não sou digno de batizá-lo. É você quem deveria me batizar&quot;. Mas Jesus disse: “Você deve me batizar porque essa é a coisa certa a fazer&quot;. Então João o batizou, mesmo que Jesus nunca tivesse pecado.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-08.jpg\" alt=\"OBS Image\"><p>Assim que João O batizou, o Espírito Santo de Deus apareceu em forma de pomba, - pousou em Jesus e a voz de Deus falou dos céus: “Você é o meu Filho que amo e muito me alegra&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-09.jpg\" alt=\"OBS Image\"><p>Deus havia falado a João: “O Espírito Santo descerá e repousará sobre alguém que você batizar. Essa pessoa é o meu Filho&quot;. Há somente um Deus, mas quando João batizou Jesus, ele ouviu a voz de Deus Pai dizendo que Jesus é Deus Filho, e viu o Espírito Santo de Deus.</p><p><em>Uma história da Bíblia de: Mateus 3; Marcos 1.9–11; Lucas 3.1–23</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        },
+        {
+          "start_ref": "40003001",
+          "start_ref_usfm": "MAT 3:1",
+          "end_ref": "40003017",
+          "end_ref_usfm": "MAT 3:17"
+        },
+        {
+          "start_ref": "41001001",
+          "start_ref_usfm": "MRK 1:1",
+          "end_ref": "41001045",
+          "end_ref_usfm": "MRK 1:45"
+        },
+        {
+          "start_ref": "43001015",
+          "start_ref_usfm": "JHN 1:15",
+          "end_ref": "43001037",
+          "end_ref_usfm": "JHN 1:37"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

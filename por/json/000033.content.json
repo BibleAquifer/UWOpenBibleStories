@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 296258,
+    "reference_id": 134123,
+    "title": "33. A história do semeador",
+    "media_type": "Text",
+    "index_reference": "33. a história do semeador",
+    "language": "por",
+    "content": "<h1>33. A história do semeador</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-33-01.jpg\" alt=\"OBS Image\"><p>Um dia, Jesus estava ensinando uma grande multidão de pessoas à margem de um lago. Ele entrou em um barco e afastou-o da margem para que as pessoas pudessem ouvi-lo.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-33-02.jpg\" alt=\"OBS Image\"><p>Ele sentou-se no barco e ensinou o povo, contado a seguinte história: “Um semeador saiu para plantar algumas sementes. Enquanto ele as semeava, algumas caíram no caminho. As aves viram e comeram estas sementes&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-33-03.jpg\" alt=\"OBS Image\"><p>“Outras sementes caíram num terreno com muitas pedras e pouca terra. Elas brotaram rapidamente, mas suas raízes não se aprofundaram na terra rasa. Por isso, quando veio o calor do sol, as plantas murcharam e morreram rapidamente&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-33-04.jpg\" alt=\"OBS Image\"><p>“Outras sementes caíram no meio de arbustos cheios de espinhos. Quando elas brotaram, foram sufocadas pelos espinhos e não produziram nenhum grão&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-33-05.jpg\" alt=\"OBS Image\"><p>“Mas outras sementes caíram em terra boa. Elas brotaram, cresceram e produziram trinta, sessenta ou até cem vezes a quantidade de semente que foi plantada. Quem tem ouvidos, preste atenção!”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-33-06.jpg\" alt=\"OBS Image\"><p>Os discípulos não entenderam o sentido dessa história. Então, Jesus explicou: “As sementes representam a Palavra de Deus. As sementes no caminho são como as pessoas que ouvem a Palavra de Deus, não a entendem e o Diabo vem e tira delas a Palavra&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-33-07.jpg\" alt=\"OBS Image\"><p>“As sementes que caíram entre as pedras com pouca terra são como as pessoas que ouvem a Palavra de Deus e a aceitam com alegria. Mas em tempos de dificuldades, sofrimento ou perseguição, elas desistem&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-33-08.jpg\" alt=\"OBS Image\"><p>“As sementes que caíram entre espinhos são como as pessoas que ouvem a Palavra de Deus e acreditam nela. Mas, com o passar do tempo, o seu amor por Deus é sufocado pelas preocupações, riquezas e prazeres da vida. E, assim, o ensinamento que ouviram não produz fruto em suas vidas&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-33-09.jpg\" alt=\"OBS Image\"><p>“Mas as sementes que caíram em boa terra representam as pessoas que ouvem a Palavra de Deus, acreditam nela e produzem frutos&quot;.</p><p><em>Uma história da Bíblia de: Mateus 13.1–8, 18–23; Marcos 4.1–8, 13–20; Lucas 8.4–15.</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42008004",
+          "start_ref_usfm": "LUK 8:4",
+          "end_ref": "42008015",
+          "end_ref_usfm": "LUK 8:15"
+        },
+        {
+          "start_ref": "41004001",
+          "start_ref_usfm": "MRK 4:1",
+          "end_ref": "41004020",
+          "end_ref_usfm": "MRK 4:20"
+        },
+        {
+          "start_ref": "40013001",
+          "start_ref_usfm": "MAT 13:1",
+          "end_ref": "40013023",
+          "end_ref_usfm": "MAT 13:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

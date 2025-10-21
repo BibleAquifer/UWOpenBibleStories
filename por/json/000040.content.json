@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 296265,
+    "reference_id": 134130,
+    "title": "40. Jesus é crucificado",
+    "media_type": "Text",
+    "index_reference": "40. jesus é crucificado",
+    "language": "por",
+    "content": "<h1>40. Jesus é crucificado</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-01.jpg\" alt=\"OBS Image\"><p>Depois de desprezarem e maltratarem Jesus, os soldados O levaram para ser crucificado. Eles O obrigaram a carregar a própria cruz na qual morreria.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-02.jpg\" alt=\"OBS Image\"><p>Os soldados levaram Jesus a um lugar chamado “A caveira” e usaram pregos para pregar as mãos e pés na cruz. Jesus orou a Deus: “Pai, perdoe-os porque não sabem o que estão fazendo&quot;. Pilatos mandou que escrevessem “Rei dos judeus” em uma placa para pregarem na cruz acima da cabeça de Jesus.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-03.jpg\" alt=\"OBS Image\"><p>Os soldados sortearam as roupas de Jesus, sem saber que estavam cumprindo uma profecia sobre o Messias séculos antes: “Dividiram as minhas vestes entre si e lançaram sortes sobre a minha túnica”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-04.jpg\" alt=\"OBS Image\"><p>Jesus foi crucificado entre dois ladrões. Um deles desprezou Jesus, mas o outro o repreendeu dizendo: “Você não teme a Deus? Nós somos culpados, mas este homem é inocente”. E, dirigindo-se a Jesus, disse: “Por favor, lembre-se de mim quando entrar no Seu reino”. Jesus lhe respondeu: “Hoje você estará comigo no Paraíso”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-05.jpg\" alt=\"OBS Image\"><p>A multidão e os líderes judeus riram de Jesus e diziam: “Se você é o Filho de Deus, desça dessa cruz e salve a Si mesmo para acreditarmos em você”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-06.jpg\" alt=\"OBS Image\"><p>Ao meio-dia, o céu se escureceu completamente e a escuridão permaneceu até às três horas da tarde.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-07.jpg\" alt=\"OBS Image\"><p>Então, Jesus gritou: “Está feito! Pai, entrego o Meu espírito em Suas mãos&quot;. E, inclinando a cabeça, entregou o Seu espírito a Deus. Assim que Ele morreu, houve um terremoto e a grande cortina no templo, que separava o povo da presença de Deus, se rasgou de cima a baixo.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-08.jpg\" alt=\"OBS Image\"><p>Pela Sua morte, Jesus abriu um caminho para as pessoas chegarem a Deus. Quando o soldado que observava Jesus viu tudo isso, disse: “Realmente este homem era inocente; era o Filho de Deus&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-09.jpg\" alt=\"OBS Image\"><p>Depois que Jesus morreu, José e Nicodemos, dois líderes judeus que acreditavam que Jesus era o Messias, perguntaram a Pilatos se podiam retirar Jesus da cruz. Eles envolveram seu corpo em um pano, o colocaram em um túmulo na rocha e rolaram uma grande pedra na entrada do túmulo para fechá-lo.</p><p><em>Uma história da Bíblia de: Mateus 27.27–61; Marcos 15.16–47; Lucas 23.26–56; João 19.17–42</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40027027",
+          "start_ref_usfm": "MAT 27:27",
+          "end_ref": "40027061",
+          "end_ref_usfm": "MAT 27:61"
+        },
+        {
+          "start_ref": "41015016",
+          "start_ref_usfm": "MRK 15:16",
+          "end_ref": "41015047",
+          "end_ref_usfm": "MRK 15:47"
+        },
+        {
+          "start_ref": "42023026",
+          "start_ref_usfm": "LUK 23:26",
+          "end_ref": "42023056",
+          "end_ref_usfm": "LUK 23:56"
+        },
+        {
+          "start_ref": "43019017",
+          "start_ref_usfm": "JHN 19:17",
+          "end_ref": "43019042",
+          "end_ref_usfm": "JHN 19:42"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
