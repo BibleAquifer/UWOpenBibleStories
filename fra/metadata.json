@@ -1,0 +1,3617 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "Dictionary",
+    "resource_type": "Foundational Bible Stores",
+    "title": "Open Bible Stories (unfoldingWord)",
+    "aquifer_name": "Histoires de la Bible Ouverte (unfoldingWord)",
+    "collection_title": "Open Bible Stories (unfoldingWord)",
+    "short_name": "UWOBS",
+    "license_info": {
+      "title": "unfoldingWord® Open Bible Stories",
+      "copyright": {
+        "dates": "2022",
+        "holder": {
+          "name": "unfoldingWord",
+          "url": "https://unfoldingword.org/utw"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    },
+    "adaptation_notice": "",
+    "resource_code": "UWOpenBibleStories",
+    "date_created": "2025-10-16",
+    "language": "fra",
+    "localizations": [
+      "eng",
+      "tpi",
+      "arb",
+      "hin",
+      "ind",
+      "por",
+      "rus",
+      "spa",
+      "swh",
+      "zhs",
+      "nep"
+    ],
+    "order": "monograph",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2025-10-16T16:09:55.701316"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "UWOpenBibleStories": {
+            "timestamp": "2025-10-16T16:09:55.701316"
+          }
+        }
+      },
+      "name": {
+        "fr": "unfoldingWord® Open Bible Stories"
+      },
+      "abbreviation": {
+        "fr": "UWOBS"
+      }
+    },
+    "languages": [
+      {
+        "tag": "fr",
+        "name": {
+          "fr": "French"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "peripheral",
+        "flavor": {
+          "name": "textAquiferMonograph",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/000001.content.json": {
+        "mimeType": "text/json",
+        "size": 6344
+      },
+      "json/000002.content.json": {
+        "mimeType": "text/json",
+        "size": 5618
+      },
+      "json/000003.content.json": {
+        "mimeType": "text/json",
+        "size": 6756
+      },
+      "json/000004.content.json": {
+        "mimeType": "text/json",
+        "size": 4599
+      },
+      "json/000005.content.json": {
+        "mimeType": "text/json",
+        "size": 4963
+      },
+      "json/000006.content.json": {
+        "mimeType": "text/json",
+        "size": 3084
+      },
+      "json/000007.content.json": {
+        "mimeType": "text/json",
+        "size": 4150
+      },
+      "json/000008.content.json": {
+        "mimeType": "text/json",
+        "size": 5884
+      },
+      "json/000009.content.json": {
+        "mimeType": "text/json",
+        "size": 5876
+      },
+      "json/000010.content.json": {
+        "mimeType": "text/json",
+        "size": 4844
+      },
+      "json/000011.content.json": {
+        "mimeType": "text/json",
+        "size": 3414
+      },
+      "json/000012.content.json": {
+        "mimeType": "text/json",
+        "size": 5876
+      },
+      "json/000013.content.json": {
+        "mimeType": "text/json",
+        "size": 7120
+      },
+      "json/000014.content.json": {
+        "mimeType": "text/json",
+        "size": 8561
+      },
+      "json/000015.content.json": {
+        "mimeType": "text/json",
+        "size": 6353
+      },
+      "json/000016.content.json": {
+        "mimeType": "text/json",
+        "size": 9920
+      },
+      "json/000017.content.json": {
+        "mimeType": "text/json",
+        "size": 8840
+      },
+      "json/000018.content.json": {
+        "mimeType": "text/json",
+        "size": 5743
+      },
+      "json/000019.content.json": {
+        "mimeType": "text/json",
+        "size": 9332
+      },
+      "json/000020.content.json": {
+        "mimeType": "text/json",
+        "size": 6942
+      },
+      "json/000021.content.json": {
+        "mimeType": "text/json",
+        "size": 10945
+      },
+      "json/000022.content.json": {
+        "mimeType": "text/json",
+        "size": 3969
+      },
+      "json/000023.content.json": {
+        "mimeType": "text/json",
+        "size": 5178
+      },
+      "json/000024.content.json": {
+        "mimeType": "text/json",
+        "size": 4662
+      },
+      "json/000025.content.json": {
+        "mimeType": "text/json",
+        "size": 3577
+      },
+      "json/000026.content.json": {
+        "mimeType": "text/json",
+        "size": 5348
+      },
+      "json/000027.content.json": {
+        "mimeType": "text/json",
+        "size": 4670
+      },
+      "json/000028.content.json": {
+        "mimeType": "text/json",
+        "size": 4602
+      },
+      "json/000029.content.json": {
+        "mimeType": "text/json",
+        "size": 3849
+      },
+      "json/000030.content.json": {
+        "mimeType": "text/json",
+        "size": 4475
+      },
+      "json/000031.content.json": {
+        "mimeType": "text/json",
+        "size": 4053
+      },
+      "json/000032.content.json": {
+        "mimeType": "text/json",
+        "size": 7047
+      },
+      "json/000033.content.json": {
+        "mimeType": "text/json",
+        "size": 4512
+      },
+      "json/000034.content.json": {
+        "mimeType": "text/json",
+        "size": 5023
+      },
+      "json/000035.content.json": {
+        "mimeType": "text/json",
+        "size": 5535
+      },
+      "json/000036.content.json": {
+        "mimeType": "text/json",
+        "size": 3449
+      },
+      "json/000037.content.json": {
+        "mimeType": "text/json",
+        "size": 5077
+      },
+      "json/000038.content.json": {
+        "mimeType": "text/json",
+        "size": 7645
+      },
+      "json/000039.content.json": {
+        "mimeType": "text/json",
+        "size": 6375
+      },
+      "json/000040.content.json": {
+        "mimeType": "text/json",
+        "size": 4927
+      },
+      "json/000041.content.json": {
+        "mimeType": "text/json",
+        "size": 4473
+      },
+      "json/000042.content.json": {
+        "mimeType": "text/json",
+        "size": 7026
+      },
+      "json/000043.content.json": {
+        "mimeType": "text/json",
+        "size": 5884
+      },
+      "json/000044.content.json": {
+        "mimeType": "text/json",
+        "size": 4385
+      },
+      "json/000045.content.json": {
+        "mimeType": "text/json",
+        "size": 6644
+      },
+      "json/000046.content.json": {
+        "mimeType": "text/json",
+        "size": 6253
+      },
+      "json/000047.content.json": {
+        "mimeType": "text/json",
+        "size": 6175
+      },
+      "json/000048.content.json": {
+        "mimeType": "text/json",
+        "size": 8748
+      },
+      "json/000049.content.json": {
+        "mimeType": "text/json",
+        "size": 9831
+      },
+      "json/000050.content.json": {
+        "mimeType": "text/json",
+        "size": 9927
+      },
+      "md/000001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5905
+      },
+      "md/000002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5253
+      },
+      "md/000003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6511
+      },
+      "md/000004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4466
+      },
+      "md/000005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4700
+      },
+      "md/000006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3029
+      },
+      "md/000007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3991
+      },
+      "md/000008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5639
+      },
+      "md/000009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5626
+      },
+      "md/000010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4680
+      },
+      "md/000011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3345
+      },
+      "md/000012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5623
+      },
+      "md/000013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6885
+      },
+      "md/000014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7604
+      },
+      "md/000015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6195
+      },
+      "md/000016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9276
+      },
+      "md/000017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7728
+      },
+      "md/000018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5421
+      },
+      "md/000019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8611
+      },
+      "md/000020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6187
+      },
+      "md/000021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7797
+      },
+      "md/000022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3811
+      },
+      "md/000023.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4867
+      },
+      "md/000024.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3975
+      },
+      "md/000025.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3085
+      },
+      "md/000026.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4842
+      },
+      "md/000027.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4385
+      },
+      "md/000028.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4008
+      },
+      "md/000029.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3663
+      },
+      "md/000030.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3866
+      },
+      "md/000031.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3568
+      },
+      "md/000032.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6161
+      },
+      "md/000033.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4106
+      },
+      "md/000034.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4368
+      },
+      "md/000035.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5317
+      },
+      "md/000036.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3036
+      },
+      "md/000037.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4675
+      },
+      "md/000038.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6749
+      },
+      "md/000039.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5523
+      },
+      "md/000040.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4270
+      },
+      "md/000041.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3876
+      },
+      "md/000042.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6159
+      },
+      "md/000043.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5452
+      },
+      "md/000044.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4200
+      },
+      "md/000045.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6344
+      },
+      "md/000046.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5530
+      },
+      "md/000047.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5908
+      },
+      "md/000048.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6905
+      },
+      "md/000049.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7908
+      },
+      "md/000050.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7751
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>unfoldingWord® Open Bible Stories © 2022 unfoldingWord.</p>",
+          "mimetype": "text/html",
+          "lang": "fr"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "187050": {
+      "content_id": 187050,
+      "reference_id": 134091,
+      "index_reference": "1. la création",
+      "localizations": {
+        "eng": {
+          "content_id": 180572,
+          "language": "eng",
+          "title": "1. The Creation"
+        },
+        "tpi": {
+          "content_id": 674576,
+          "language": "tpi",
+          "title": "1. Stori Bilong God i Bin Wokim Kamap Olgeta Samting"
+        },
+        "arb": {
+          "content_id": 663063,
+          "language": "arb",
+          "title": "1. الخلق"
+        },
+        "hin": {
+          "content_id": 186951,
+          "language": "hin",
+          "title": "1. सृष्टि"
+        },
+        "ind": {
+          "content_id": 674426,
+          "language": "ind",
+          "title": "1. Penciptaan"
+        },
+        "por": {
+          "content_id": 296226,
+          "language": "por",
+          "title": "1. A Criação"
+        },
+        "rus": {
+          "content_id": 674526,
+          "language": "rus",
+          "title": "1. Создание мира"
+        },
+        "spa": {
+          "content_id": 296276,
+          "language": "spa",
+          "title": "1. La Creación"
+        },
+        "swh": {
+          "content_id": 674476,
+          "language": "swh",
+          "title": "1. Uumbaji"
+        },
+        "zhs": {
+          "content_id": 674676,
+          "language": "zhs",
+          "title": "1. 创造"
+        },
+        "nep": {
+          "content_id": 674726,
+          "language": "nep",
+          "title": "1. सृष्टि"
+        }
+      }
+    },
+    "187001": {
+      "content_id": 187001,
+      "reference_id": 134092,
+      "index_reference": "2. le mal entre dans le monde",
+      "localizations": {
+        "eng": {
+          "content_id": 180573,
+          "language": "eng",
+          "title": "2. Sin Enters the World"
+        },
+        "tpi": {
+          "content_id": 674577,
+          "language": "tpi",
+          "title": "2. Taim Sin i Kamap Long Dispela Graun"
+        },
+        "arb": {
+          "content_id": 663064,
+          "language": "arb",
+          "title": "٢. دخول الخطية إلى العالم"
+        },
+        "hin": {
+          "content_id": 186952,
+          "language": "hin",
+          "title": "2. पाप संसार में प्रवेश करता है"
+        },
+        "ind": {
+          "content_id": 674427,
+          "language": "ind",
+          "title": "2. Dosa Memasuki Dunia"
+        },
+        "por": {
+          "content_id": 296227,
+          "language": "por",
+          "title": "2. O pecado entra no mundo"
+        },
+        "rus": {
+          "content_id": 674527,
+          "language": "rus",
+          "title": "2. В мире появляется грех"
+        },
+        "spa": {
+          "content_id": 296277,
+          "language": "spa",
+          "title": "2. El pecado entra al mundo"
+        },
+        "swh": {
+          "content_id": 674477,
+          "language": "swh",
+          "title": "2. Dhambi Inaingia Ulimwenguni"
+        },
+        "zhs": {
+          "content_id": 674677,
+          "language": "zhs",
+          "title": "2. 罪进入世界"
+        },
+        "nep": {
+          "content_id": 674727,
+          "language": "nep",
+          "title": "2. संसारमा पापको प्रवेश"
+        }
+      }
+    },
+    "187002": {
+      "content_id": 187002,
+      "reference_id": 134093,
+      "index_reference": "3. le déluge",
+      "localizations": {
+        "eng": {
+          "content_id": 180574,
+          "language": "eng",
+          "title": "3. The Flood"
+        },
+        "tpi": {
+          "content_id": 674578,
+          "language": "tpi",
+          "title": "3. Bikpela Wara Tait"
+        },
+        "arb": {
+          "content_id": 663065,
+          "language": "arb",
+          "title": "٣. الطوفان"
+        },
+        "hin": {
+          "content_id": 186953,
+          "language": "hin",
+          "title": "3. बाढ़"
+        },
+        "ind": {
+          "content_id": 674428,
+          "language": "ind",
+          "title": "3. Air Bah"
+        },
+        "por": {
+          "content_id": 296228,
+          "language": "por",
+          "title": "3. O Dilúvio"
+        },
+        "rus": {
+          "content_id": 674528,
+          "language": "rus",
+          "title": "3. Потоп"
+        },
+        "spa": {
+          "content_id": 296278,
+          "language": "spa",
+          "title": "3. El Diluvio"
+        },
+        "swh": {
+          "content_id": 674478,
+          "language": "swh",
+          "title": "3. Gharika"
+        },
+        "zhs": {
+          "content_id": 674678,
+          "language": "zhs",
+          "title": "3. 洪水"
+        },
+        "nep": {
+          "content_id": 674728,
+          "language": "nep",
+          "title": "3. जलप्रलय"
+        }
+      }
+    },
+    "187003": {
+      "content_id": 187003,
+      "reference_id": 134094,
+      "index_reference": "4. l’alliance de dieu avec abraham",
+      "localizations": {
+        "eng": {
+          "content_id": 180575,
+          "language": "eng",
+          "title": "4. God’s Covenant with Abraham"
+        },
+        "tpi": {
+          "content_id": 674579,
+          "language": "tpi",
+          "title": "4. God i Wokim Kontrak Wantaim Abraham"
+        },
+        "arb": {
+          "content_id": 663066,
+          "language": "arb",
+          "title": "4. عهد ٱلله مع إبراهيم"
+        },
+        "hin": {
+          "content_id": 186954,
+          "language": "hin",
+          "title": "4. अब्राहम के साथ परमेश्वर की वाचा"
+        },
+        "ind": {
+          "content_id": 674429,
+          "language": "ind",
+          "title": "4. Perjanjian Allah dengan Abraham"
+        },
+        "por": {
+          "content_id": 296229,
+          "language": "por",
+          "title": "4. O pacto de Deus com Abrão"
+        },
+        "rus": {
+          "content_id": 674529,
+          "language": "rus",
+          "title": "4. Завет Бога с Аврамом"
+        },
+        "spa": {
+          "content_id": 296279,
+          "language": "spa",
+          "title": "4. El Pacto de Dios con Abraham"
+        },
+        "swh": {
+          "content_id": 674479,
+          "language": "swh",
+          "title": "4. Agano la Mungu na Abrahamu"
+        },
+        "zhs": {
+          "content_id": 674679,
+          "language": "zhs",
+          "title": "4. 上帝与亚伯拉罕的盟约"
+        },
+        "nep": {
+          "content_id": 674729,
+          "language": "nep",
+          "title": "4. अब्राहामसँग परमेश्‍वरको करार"
+        }
+      }
+    },
+    "187004": {
+      "content_id": 187004,
+      "reference_id": 134095,
+      "index_reference": "5. le fils de la promesse",
+      "localizations": {
+        "eng": {
+          "content_id": 180576,
+          "language": "eng",
+          "title": "5. The Son of Promise"
+        },
+        "tpi": {
+          "content_id": 674580,
+          "language": "tpi",
+          "title": "5. Promis Pikinini Man"
+        },
+        "arb": {
+          "content_id": 663067,
+          "language": "arb",
+          "title": "٥. ابن الوعد"
+        },
+        "hin": {
+          "content_id": 186955,
+          "language": "hin",
+          "title": "5. प्रतिज्ञा का पुत्र"
+        },
+        "ind": {
+          "content_id": 674430,
+          "language": "ind",
+          "title": "5. Anak yang Dijanjikan"
+        },
+        "por": {
+          "content_id": 296230,
+          "language": "por",
+          "title": "5. O filho da promessa"
+        },
+        "rus": {
+          "content_id": 674530,
+          "language": "rus",
+          "title": "5. Сын, обещанный Богом"
+        },
+        "spa": {
+          "content_id": 296280,
+          "language": "spa",
+          "title": "5. El Hijo de la Promesa"
+        },
+        "swh": {
+          "content_id": 674480,
+          "language": "swh",
+          "title": "5. Mtoto wa Ahadi"
+        },
+        "zhs": {
+          "content_id": 674680,
+          "language": "zhs",
+          "title": "5. 应许之子"
+        },
+        "nep": {
+          "content_id": 674730,
+          "language": "nep",
+          "title": "5. प्रतिज्ञाको सन्तान"
+        }
+      }
+    },
+    "187005": {
+      "content_id": 187005,
+      "reference_id": 134096,
+      "index_reference": "6. dieu subvient aux besoins d’isaac",
+      "localizations": {
+        "eng": {
+          "content_id": 180577,
+          "language": "eng",
+          "title": "6. God Provides for Isaac"
+        },
+        "tpi": {
+          "content_id": 674581,
+          "language": "tpi",
+          "title": "6. God i Givim Ol Gutpela Samting Long Aisak"
+        },
+        "arb": {
+          "content_id": 663068,
+          "language": "arb",
+          "title": "٦. ٱلله يبارك إسحاق"
+        },
+        "hin": {
+          "content_id": 186956,
+          "language": "hin",
+          "title": "6. परमेश्वर इसहाक के लिए प्रबंध करता है"
+        },
+        "ind": {
+          "content_id": 674431,
+          "language": "ind",
+          "title": "6. Allah Menyediakan untuk Ishak"
+        },
+        "por": {
+          "content_id": 296231,
+          "language": "por",
+          "title": "6. A providência de Deus para Isaque"
+        },
+        "rus": {
+          "content_id": 674531,
+          "language": "rus",
+          "title": "6. Бог заботится об Исааке"
+        },
+        "spa": {
+          "content_id": 296281,
+          "language": "spa",
+          "title": "6. Dios provee para Isaac"
+        },
+        "swh": {
+          "content_id": 674481,
+          "language": "swh",
+          "title": "6. Mungu anamjalia Isaka"
+        },
+        "zhs": {
+          "content_id": 674681,
+          "language": "zhs",
+          "title": "6. 上帝赐福以撒"
+        },
+        "nep": {
+          "content_id": 674731,
+          "language": "nep",
+          "title": "6. परमेश्‍वरले इसहाकलाई जुटाउनु भयो ।"
+        }
+      }
+    },
+    "187006": {
+      "content_id": 187006,
+      "reference_id": 134097,
+      "index_reference": "7. dieu bénit jacob",
+      "localizations": {
+        "eng": {
+          "content_id": 180578,
+          "language": "eng",
+          "title": "7. God Blesses Jacob"
+        },
+        "tpi": {
+          "content_id": 674582,
+          "language": "tpi",
+          "title": "7. God i Blesim Jekop"
+        },
+        "arb": {
+          "content_id": 663069,
+          "language": "arb",
+          "title": "٧. ٱلله يبارك يعقوب"
+        },
+        "hin": {
+          "content_id": 186957,
+          "language": "hin",
+          "title": "7. परमेश्वर याकूब को आशीष देता है"
+        },
+        "ind": {
+          "content_id": 674432,
+          "language": "ind",
+          "title": "7. Allah Memberkati Yakub"
+        },
+        "por": {
+          "content_id": 296232,
+          "language": "por",
+          "title": "7. Deus abençoa Jacó"
+        },
+        "rus": {
+          "content_id": 674532,
+          "language": "rus",
+          "title": "7. Бог благословляет Иакова"
+        },
+        "spa": {
+          "content_id": 296282,
+          "language": "spa",
+          "title": "7. Dios bendice a Jacob"
+        },
+        "swh": {
+          "content_id": 674482,
+          "language": "swh",
+          "title": "7. Mungu Anambariki Yakobo"
+        },
+        "zhs": {
+          "content_id": 674682,
+          "language": "zhs",
+          "title": "7. 上帝祝福雅各"
+        },
+        "nep": {
+          "content_id": 674732,
+          "language": "nep",
+          "title": "7. परमेश्‍वरले याकूबलाई आशिष् दिनुभयो"
+        }
+      }
+    },
+    "187007": {
+      "content_id": 187007,
+      "reference_id": 134098,
+      "index_reference": "8. dieu sauve joseph et sa famille",
+      "localizations": {
+        "eng": {
+          "content_id": 180579,
+          "language": "eng",
+          "title": "8. God Saves Joseph and His Family"
+        },
+        "tpi": {
+          "content_id": 674583,
+          "language": "tpi",
+          "title": "8. God i Mekim Gut Long Josep Wantaim Ol Lain Bilong Em."
+        },
+        "arb": {
+          "content_id": 663070,
+          "language": "arb",
+          "title": "٨. ٱلله ينقذ يوسف وعائلته"
+        },
+        "hin": {
+          "content_id": 186958,
+          "language": "hin",
+          "title": "8. परमेश्वर यूसुफ और उसके परिवार को बचाता है"
+        },
+        "ind": {
+          "content_id": 674433,
+          "language": "ind",
+          "title": "8. Allah Menyelamatkan Yusuf dan Keluarganya"
+        },
+        "por": {
+          "content_id": 296233,
+          "language": "por",
+          "title": "8. Deus salva José e sua família"
+        },
+        "rus": {
+          "content_id": 674533,
+          "language": "rus",
+          "title": "8. Бог спасает Иосифа и его семью"
+        },
+        "spa": {
+          "content_id": 296283,
+          "language": "spa",
+          "title": "8. Dios salva a José y a su familia"
+        },
+        "swh": {
+          "content_id": 674483,
+          "language": "swh",
+          "title": "8. Mungu anamuokoa Yusufu na Familia yake."
+        },
+        "zhs": {
+          "content_id": 674683,
+          "language": "zhs",
+          "title": "8. 上帝拯救约瑟和他的全家"
+        },
+        "nep": {
+          "content_id": 674733,
+          "language": "nep",
+          "title": "8. परमेश्‍वरले योसेफ र उनका घरानालाई बचाउनुभयो"
+        }
+      }
+    },
+    "187008": {
+      "content_id": 187008,
+      "reference_id": 134099,
+      "index_reference": "9. dieu appelle moïse",
+      "localizations": {
+        "eng": {
+          "content_id": 180580,
+          "language": "eng",
+          "title": "9. God Calls Moses"
+        },
+        "tpi": {
+          "content_id": 674584,
+          "language": "tpi",
+          "title": "9. God i Singautim Moses"
+        },
+        "arb": {
+          "content_id": 663071,
+          "language": "arb",
+          "title": "٩. ٱلله يدعو موسى"
+        },
+        "hin": {
+          "content_id": 186959,
+          "language": "hin",
+          "title": "9.परमेश्वर मूसा को बुलाता है"
+        },
+        "ind": {
+          "content_id": 674434,
+          "language": "ind",
+          "title": "9. Allah Memanggil Musa"
+        },
+        "por": {
+          "content_id": 296234,
+          "language": "por",
+          "title": "9. Deus chama Moisés"
+        },
+        "rus": {
+          "content_id": 674534,
+          "language": "rus",
+          "title": "9. Бог призывает Моисея"
+        },
+        "spa": {
+          "content_id": 296284,
+          "language": "spa",
+          "title": "9. Dios llama a Moisés"
+        },
+        "swh": {
+          "content_id": 674484,
+          "language": "swh",
+          "title": "9. Mungu Anamwita Musa"
+        },
+        "zhs": {
+          "content_id": 674684,
+          "language": "zhs",
+          "title": "9. 上帝呼召摩西"
+        },
+        "nep": {
+          "content_id": 674734,
+          "language": "nep",
+          "title": "9. परमेश्‍वरबाट मोशालाई बोलावट"
+        }
+      }
+    },
+    "187009": {
+      "content_id": 187009,
+      "reference_id": 134100,
+      "index_reference": "10. les dix plaies",
+      "localizations": {
+        "eng": {
+          "content_id": 180581,
+          "language": "eng",
+          "title": "10. The Ten Plagues"
+        },
+        "tpi": {
+          "content_id": 674585,
+          "language": "tpi",
+          "title": "10. Tenpela Samting Nogut"
+        },
+        "arb": {
+          "content_id": 663072,
+          "language": "arb",
+          "title": "10. الضربات العشر"
+        },
+        "hin": {
+          "content_id": 186960,
+          "language": "hin",
+          "title": "10. दस विपत्तियाँ"
+        },
+        "ind": {
+          "content_id": 674435,
+          "language": "ind",
+          "title": "10. Sepuluh Tulah"
+        },
+        "por": {
+          "content_id": 296235,
+          "language": "por",
+          "title": "10. As dez pragas"
+        },
+        "rus": {
+          "content_id": 674535,
+          "language": "rus",
+          "title": "10. Десять бедствий"
+        },
+        "spa": {
+          "content_id": 296285,
+          "language": "spa",
+          "title": "10. Las Diez Plagas"
+        },
+        "swh": {
+          "content_id": 674485,
+          "language": "swh",
+          "title": "10. Mapigo Kumi"
+        },
+        "zhs": {
+          "content_id": 674685,
+          "language": "zhs",
+          "title": "10. 十灾"
+        },
+        "nep": {
+          "content_id": 674735,
+          "language": "nep",
+          "title": "10. दश विपत्तिहरू"
+        }
+      }
+    },
+    "187010": {
+      "content_id": 187010,
+      "reference_id": 134101,
+      "index_reference": "11. la pâque juive",
+      "localizations": {
+        "eng": {
+          "content_id": 180582,
+          "language": "eng",
+          "title": "11. The Passover"
+        },
+        "tpi": {
+          "content_id": 674586,
+          "language": "tpi",
+          "title": "11. Pasova"
+        },
+        "arb": {
+          "content_id": 663073,
+          "language": "arb",
+          "title": "١١. الفِصح"
+        },
+        "hin": {
+          "content_id": 186961,
+          "language": "hin",
+          "title": "11. फसह"
+        },
+        "ind": {
+          "content_id": 674436,
+          "language": "ind",
+          "title": "11. Paskah"
+        },
+        "por": {
+          "content_id": 296236,
+          "language": "por",
+          "title": "11. A Páscoa"
+        },
+        "rus": {
+          "content_id": 674536,
+          "language": "rus",
+          "title": "11. Пасха"
+        },
+        "spa": {
+          "content_id": 296286,
+          "language": "spa",
+          "title": "11. La Pascua"
+        },
+        "swh": {
+          "content_id": 674486,
+          "language": "swh",
+          "title": "11. Pasaka"
+        },
+        "zhs": {
+          "content_id": 674686,
+          "language": "zhs",
+          "title": "11. 逾越节"
+        },
+        "nep": {
+          "content_id": 674736,
+          "language": "nep",
+          "title": "11. निस्तार चाड"
+        }
+      }
+    },
+    "187011": {
+      "content_id": 187011,
+      "reference_id": 134102,
+      "index_reference": "12. l’exode",
+      "localizations": {
+        "eng": {
+          "content_id": 180583,
+          "language": "eng",
+          "title": "12. The Exodus"
+        },
+        "tpi": {
+          "content_id": 674587,
+          "language": "tpi",
+          "title": "12. Ol Lain Israel I Lusim Isip"
+        },
+        "arb": {
+          "content_id": 663074,
+          "language": "arb",
+          "title": "12. الخروج"
+        },
+        "hin": {
+          "content_id": 186962,
+          "language": "hin",
+          "title": "12. निर्गमन"
+        },
+        "ind": {
+          "content_id": 674437,
+          "language": "ind",
+          "title": "12. Peristiwa Keluaran"
+        },
+        "por": {
+          "content_id": 296237,
+          "language": "por",
+          "title": "12. O Êxodo"
+        },
+        "rus": {
+          "content_id": 674537,
+          "language": "rus",
+          "title": "12. Исход"
+        },
+        "spa": {
+          "content_id": 296287,
+          "language": "spa",
+          "title": "12.  El Éxodo"
+        },
+        "swh": {
+          "content_id": 674487,
+          "language": "swh",
+          "title": "12. Kutoka"
+        },
+        "zhs": {
+          "content_id": 674687,
+          "language": "zhs",
+          "title": "12. 出埃及"
+        },
+        "nep": {
+          "content_id": 674737,
+          "language": "nep",
+          "title": "12. प्रस्थान"
+        }
+      }
+    },
+    "187012": {
+      "content_id": 187012,
+      "reference_id": 134103,
+      "index_reference": "13. l’alliance de dieu avec israël",
+      "localizations": {
+        "eng": {
+          "content_id": 180584,
+          "language": "eng",
+          "title": "13. God’s Covenant with Israel"
+        },
+        "tpi": {
+          "content_id": 674588,
+          "language": "tpi",
+          "title": "13. God i wokim kontrak wantaim ol Israel."
+        },
+        "arb": {
+          "content_id": 663075,
+          "language": "arb",
+          "title": "١٣. عهد ٱلله مع إسرائيل"
+        },
+        "hin": {
+          "content_id": 186963,
+          "language": "hin",
+          "title": "13. इस्राएल के साथ परमेश्वर की वाचा"
+        },
+        "ind": {
+          "content_id": 674438,
+          "language": "ind",
+          "title": "13. Perjanjian Allah dengan Israel"
+        },
+        "por": {
+          "content_id": 296238,
+          "language": "por",
+          "title": "13. O pacto de Deus com Israel"
+        },
+        "rus": {
+          "content_id": 674538,
+          "language": "rus",
+          "title": "13. Завет Бога с Израилем"
+        },
+        "spa": {
+          "content_id": 296288,
+          "language": "spa",
+          "title": "13. El Pacto de Dios con Israel"
+        },
+        "swh": {
+          "content_id": 674488,
+          "language": "swh",
+          "title": "13. Agano la Mungu na Israeli"
+        },
+        "zhs": {
+          "content_id": 674688,
+          "language": "zhs",
+          "title": "13. 上帝与以色列立约"
+        },
+        "nep": {
+          "content_id": 674738,
+          "language": "nep",
+          "title": "13. इस्राएलसँग परमेश्‍वरको करार"
+        }
+      }
+    },
+    "187013": {
+      "content_id": 187013,
+      "reference_id": 134104,
+      "index_reference": "14. errant dans le désert",
+      "localizations": {
+        "eng": {
+          "content_id": 180585,
+          "language": "eng",
+          "title": "14. Wandering in the Wilderness"
+        },
+        "tpi": {
+          "content_id": 674589,
+          "language": "tpi",
+          "title": "14. Ol Lain Israel i Raun Nating Long Ples Drai"
+        },
+        "arb": {
+          "content_id": 663076,
+          "language": "arb",
+          "title": "١٤. التيهان في البرية"
+        },
+        "hin": {
+          "content_id": 186964,
+          "language": "hin",
+          "title": "14. जंगल में भटकना"
+        },
+        "ind": {
+          "content_id": 674439,
+          "language": "ind",
+          "title": "14. Mengembara di Padang Gurun"
+        },
+        "por": {
+          "content_id": 296239,
+          "language": "por",
+          "title": "14. Peregrinando no deserto"
+        },
+        "rus": {
+          "content_id": 674539,
+          "language": "rus",
+          "title": "14. Скитание по пустыне"
+        },
+        "spa": {
+          "content_id": 296289,
+          "language": "spa",
+          "title": "14. Vagando en el desierto"
+        },
+        "swh": {
+          "content_id": 674489,
+          "language": "swh",
+          "title": "14. Kuzunguka Jangwani"
+        },
+        "zhs": {
+          "content_id": 674689,
+          "language": "zhs",
+          "title": "14. 旷野游荡"
+        },
+        "nep": {
+          "content_id": 674739,
+          "language": "nep",
+          "title": "14. उजाड स्थानमा भौँतारिदै"
+        }
+      }
+    },
+    "187014": {
+      "content_id": 187014,
+      "reference_id": 134105,
+      "index_reference": "15. la terre promise",
+      "localizations": {
+        "eng": {
+          "content_id": 180586,
+          "language": "eng",
+          "title": "15. The Promised Land"
+        },
+        "tpi": {
+          "content_id": 674590,
+          "language": "tpi",
+          "title": "15. Promis Graun"
+        },
+        "arb": {
+          "content_id": 663077,
+          "language": "arb",
+          "title": "15. أرض الموعد"
+        },
+        "hin": {
+          "content_id": 186965,
+          "language": "hin",
+          "title": "15. प्रतिज्ञा का देश"
+        },
+        "ind": {
+          "content_id": 674440,
+          "language": "ind",
+          "title": "15. Tanah Perjanjian"
+        },
+        "por": {
+          "content_id": 296240,
+          "language": "por",
+          "title": "15. A Terra Prometida"
+        },
+        "rus": {
+          "content_id": 674540,
+          "language": "rus",
+          "title": "15. Земля, обещанная Богом"
+        },
+        "spa": {
+          "content_id": 296290,
+          "language": "spa",
+          "title": "15.  La Tierra Prometida"
+        },
+        "swh": {
+          "content_id": 674490,
+          "language": "swh",
+          "title": "15. Nchi  ya  Ahadi"
+        },
+        "zhs": {
+          "content_id": 674690,
+          "language": "zhs",
+          "title": "15. 应许之地"
+        },
+        "nep": {
+          "content_id": 674740,
+          "language": "nep",
+          "title": "15. प्रतिज्ञाको मुलुक"
+        }
+      }
+    },
+    "187015": {
+      "content_id": 187015,
+      "reference_id": 134106,
+      "index_reference": "16. les libérateurs",
+      "localizations": {
+        "eng": {
+          "content_id": 180587,
+          "language": "eng",
+          "title": "16. The Deliverers"
+        },
+        "tpi": {
+          "content_id": 674591,
+          "language": "tpi",
+          "title": "16. Ol Manmeri i Helpim ol Israel"
+        },
+        "arb": {
+          "content_id": 663078,
+          "language": "arb",
+          "title": "١٦. المنقِذون (القضاة)"
+        },
+        "hin": {
+          "content_id": 186966,
+          "language": "hin",
+          "title": "16. छुड़ाने वाले"
+        },
+        "ind": {
+          "content_id": 674441,
+          "language": "ind",
+          "title": "16. Sang Pembebas"
+        },
+        "por": {
+          "content_id": 296241,
+          "language": "por",
+          "title": "16. Os libertadores"
+        },
+        "rus": {
+          "content_id": 674541,
+          "language": "rus",
+          "title": "16. Судьи"
+        },
+        "spa": {
+          "content_id": 296291,
+          "language": "spa",
+          "title": "16. Los libertadores"
+        },
+        "swh": {
+          "content_id": 674491,
+          "language": "swh",
+          "title": "16. Wakombozi"
+        },
+        "zhs": {
+          "content_id": 674691,
+          "language": "zhs",
+          "title": "16. 士师"
+        },
+        "nep": {
+          "content_id": 674741,
+          "language": "nep",
+          "title": "16. छुटकारा दिनेहरू"
+        }
+      }
+    },
+    "187016": {
+      "content_id": 187016,
+      "reference_id": 134107,
+      "index_reference": "17. l’alliance de dieu avec david",
+      "localizations": {
+        "eng": {
+          "content_id": 180588,
+          "language": "eng",
+          "title": "17. God’s Covenant with David"
+        },
+        "tpi": {
+          "content_id": 674592,
+          "language": "tpi",
+          "title": "17. God i Wokim Kontrak Wantaim Devit"
+        },
+        "arb": {
+          "content_id": 663079,
+          "language": "arb",
+          "title": "17. عهد ٱلله مع داود"
+        },
+        "hin": {
+          "content_id": 186967,
+          "language": "hin",
+          "title": "17. दाऊद के साथ परमेश्वर की वाचा"
+        },
+        "ind": {
+          "content_id": 674442,
+          "language": "ind",
+          "title": "17. Perjanjian Allah dengan Daud"
+        },
+        "por": {
+          "content_id": 296242,
+          "language": "por",
+          "title": "17. O pacto de Deus com Davi"
+        },
+        "rus": {
+          "content_id": 674542,
+          "language": "rus",
+          "title": "17. Завет Бога с Давидом"
+        },
+        "spa": {
+          "content_id": 296292,
+          "language": "spa",
+          "title": "17. El Pacto de Dios con David"
+        },
+        "swh": {
+          "content_id": 674492,
+          "language": "swh",
+          "title": "17. Agano la Mungu na Daudi"
+        },
+        "zhs": {
+          "content_id": 674692,
+          "language": "zhs",
+          "title": "17. 上帝与大卫立约"
+        },
+        "nep": {
+          "content_id": 674742,
+          "language": "nep",
+          "title": "17. दाऊदसँग परमेश्‍वरको करार"
+        }
+      }
+    },
+    "187017": {
+      "content_id": 187017,
+      "reference_id": 134108,
+      "index_reference": "18. le royaume divisé",
+      "localizations": {
+        "eng": {
+          "content_id": 180589,
+          "language": "eng",
+          "title": "18. The Divided Kingdom"
+        },
+        "tpi": {
+          "content_id": 674593,
+          "language": "tpi",
+          "title": "18. Kantri Israel i Bruk Tupela Hap"
+        },
+        "arb": {
+          "content_id": 663080,
+          "language": "arb",
+          "title": "١٨. المملكة المنقسمة"
+        },
+        "hin": {
+          "content_id": 186968,
+          "language": "hin",
+          "title": "18. विभाजित राज्य"
+        },
+        "ind": {
+          "content_id": 674443,
+          "language": "ind",
+          "title": "18. Kerajaan Yang Terbagi"
+        },
+        "por": {
+          "content_id": 296243,
+          "language": "por",
+          "title": "18. O Reino Dividido"
+        },
+        "rus": {
+          "content_id": 674543,
+          "language": "rus",
+          "title": "18. Разделённое царство"
+        },
+        "spa": {
+          "content_id": 296293,
+          "language": "spa",
+          "title": "18. El reino dividido"
+        },
+        "swh": {
+          "content_id": 674493,
+          "language": "swh",
+          "title": "18. Ufalme Uliogawanyika"
+        },
+        "zhs": {
+          "content_id": 674693,
+          "language": "zhs",
+          "title": "18.王国分裂"
+        },
+        "nep": {
+          "content_id": 674743,
+          "language": "nep",
+          "title": "18. विभाजित राज्य"
+        }
+      }
+    },
+    "187018": {
+      "content_id": 187018,
+      "reference_id": 134109,
+      "index_reference": "19. les prophètes",
+      "localizations": {
+        "eng": {
+          "content_id": 180590,
+          "language": "eng",
+          "title": "19. The Prophets"
+        },
+        "tpi": {
+          "content_id": 674594,
+          "language": "tpi",
+          "title": "19. Ol Propet"
+        },
+        "arb": {
+          "content_id": 663081,
+          "language": "arb",
+          "title": "١٩. الأنبياء"
+        },
+        "hin": {
+          "content_id": 186969,
+          "language": "hin",
+          "title": "19. भविष्यद्वक्ता"
+        },
+        "ind": {
+          "content_id": 674444,
+          "language": "ind",
+          "title": "19. Para Nabi"
+        },
+        "por": {
+          "content_id": 296244,
+          "language": "por",
+          "title": "19. Os profetas"
+        },
+        "rus": {
+          "content_id": 674544,
+          "language": "rus",
+          "title": "19. Пророки"
+        },
+        "spa": {
+          "content_id": 296294,
+          "language": "spa",
+          "title": "19. Los profetas"
+        },
+        "swh": {
+          "content_id": 674494,
+          "language": "swh",
+          "title": "19. Manabii"
+        },
+        "zhs": {
+          "content_id": 674694,
+          "language": "zhs",
+          "title": "19. 先知"
+        },
+        "nep": {
+          "content_id": 674744,
+          "language": "nep",
+          "title": "19. अगमवक्ताहरू"
+        }
+      }
+    },
+    "187019": {
+      "content_id": 187019,
+      "reference_id": 134110,
+      "index_reference": "20. l’exil et le retour",
+      "localizations": {
+        "eng": {
+          "content_id": 180591,
+          "language": "eng",
+          "title": "20. The Exile and Return"
+        },
+        "tpi": {
+          "content_id": 674595,
+          "language": "tpi",
+          "title": "20. Pinis Long Wok Kalabus na Kam bek"
+        },
+        "arb": {
+          "content_id": 663082,
+          "language": "arb",
+          "title": "20. السبي والعودة"
+        },
+        "hin": {
+          "content_id": 186970,
+          "language": "hin",
+          "title": "20. बंधुआई और लौटना"
+        },
+        "ind": {
+          "content_id": 674445,
+          "language": "ind",
+          "title": "20. Pengasingan dan Kepulangan"
+        },
+        "por": {
+          "content_id": 296245,
+          "language": "por",
+          "title": "20. O Exílio e o retorno"
+        },
+        "rus": {
+          "content_id": 674545,
+          "language": "rus",
+          "title": "20. Пленение и возвращение"
+        },
+        "spa": {
+          "content_id": 296295,
+          "language": "spa",
+          "title": "20. El exilio y el retorno"
+        },
+        "swh": {
+          "content_id": 674495,
+          "language": "swh",
+          "title": "20. Kuchukuliwa Mateka na Kurudi"
+        },
+        "zhs": {
+          "content_id": 674695,
+          "language": "zhs",
+          "title": "20. 放逐和回归"
+        },
+        "nep": {
+          "content_id": 674745,
+          "language": "nep",
+          "title": "20. निर्वासन र फिर्ती"
+        }
+      }
+    },
+    "187020": {
+      "content_id": 187020,
+      "reference_id": 134111,
+      "index_reference": "21. dieu promet le messie",
+      "localizations": {
+        "eng": {
+          "content_id": 180592,
+          "language": "eng",
+          "title": "21. God Promises the Messiah"
+        },
+        "tpi": {
+          "content_id": 674596,
+          "language": "tpi",
+          "title": "21. God i Promis long salim Mesaia"
+        },
+        "arb": {
+          "content_id": 663083,
+          "language": "arb",
+          "title": "٢١. ٱلله يعد بمجيء المسيّا"
+        },
+        "hin": {
+          "content_id": 186971,
+          "language": "hin",
+          "title": "21. परमेश्वर मसीह का प्रतिज्ञा करता है"
+        },
+        "ind": {
+          "content_id": 674446,
+          "language": "ind",
+          "title": "21. Allah Menjanjikan Mesias"
+        },
+        "por": {
+          "content_id": 296246,
+          "language": "por",
+          "title": "21. Deus promete o Messias"
+        },
+        "rus": {
+          "content_id": 674546,
+          "language": "rus",
+          "title": "21. Бог обещает Мессию"
+        },
+        "spa": {
+          "content_id": 296296,
+          "language": "spa",
+          "title": "21. Dios promete el Mesías"
+        },
+        "swh": {
+          "content_id": 674496,
+          "language": "swh",
+          "title": "21. Mungu Anaahidi Ujio wa Masihi"
+        },
+        "zhs": {
+          "content_id": 674696,
+          "language": "zhs",
+          "title": "21.上帝应许弥赛亚"
+        },
+        "nep": {
+          "content_id": 674746,
+          "language": "nep",
+          "title": "21. परमेश्‍वरले मसिहको प्रतिज्ञा गर्नुभयो"
+        }
+      }
+    },
+    "187021": {
+      "content_id": 187021,
+      "reference_id": 134112,
+      "index_reference": "22. la naissance de jean",
+      "localizations": {
+        "eng": {
+          "content_id": 180593,
+          "language": "eng",
+          "title": "22. The Birth of John"
+        },
+        "tpi": {
+          "content_id": 674597,
+          "language": "tpi",
+          "title": "22. Mama i Karim Jon"
+        },
+        "arb": {
+          "content_id": 663084,
+          "language": "arb",
+          "title": "٢٢. ميلاد يوحنّا"
+        },
+        "hin": {
+          "content_id": 186972,
+          "language": "hin",
+          "title": "22. यूहन्ना का जन्म"
+        },
+        "ind": {
+          "content_id": 674447,
+          "language": "ind",
+          "title": "22. Kelahiran Yohanes"
+        },
+        "por": {
+          "content_id": 296247,
+          "language": "por",
+          "title": "22. O nascimento de João"
+        },
+        "rus": {
+          "content_id": 674547,
+          "language": "rus",
+          "title": "22. Рождение Иоанна"
+        },
+        "spa": {
+          "content_id": 296297,
+          "language": "spa",
+          "title": "22. El nacimiento de Juan"
+        },
+        "swh": {
+          "content_id": 674497,
+          "language": "swh",
+          "title": "22. Kuzaliwa kwa Yohana"
+        },
+        "zhs": {
+          "content_id": 674697,
+          "language": "zhs",
+          "title": "22. 约翰出生"
+        },
+        "nep": {
+          "content_id": 674747,
+          "language": "nep",
+          "title": "22. यूहन्‍नाको जन्म"
+        }
+      }
+    },
+    "187022": {
+      "content_id": 187022,
+      "reference_id": 134113,
+      "index_reference": "23. la naissance de jésus",
+      "localizations": {
+        "eng": {
+          "content_id": 180594,
+          "language": "eng",
+          "title": "23. The Birth of Jesus"
+        },
+        "tpi": {
+          "content_id": 674598,
+          "language": "tpi",
+          "title": "23. Maria i Karim Jisas"
+        },
+        "arb": {
+          "content_id": 663085,
+          "language": "arb",
+          "title": "23. ميلاد الرب يسوع"
+        },
+        "hin": {
+          "content_id": 186973,
+          "language": "hin",
+          "title": "23. यीशु का जन्म"
+        },
+        "ind": {
+          "content_id": 674448,
+          "language": "ind",
+          "title": "23. Kelahiran Yesus"
+        },
+        "por": {
+          "content_id": 296248,
+          "language": "por",
+          "title": "23. O nascimento de Jesus"
+        },
+        "rus": {
+          "content_id": 674548,
+          "language": "rus",
+          "title": "23. Рождение Иисуса"
+        },
+        "spa": {
+          "content_id": 296298,
+          "language": "spa",
+          "title": "23. El nacimiento de Jesús"
+        },
+        "swh": {
+          "content_id": 674498,
+          "language": "swh",
+          "title": "23. Kuzaliwa kwa Yesu"
+        },
+        "zhs": {
+          "content_id": 674698,
+          "language": "zhs",
+          "title": "23. 耶稣诞生"
+        },
+        "nep": {
+          "content_id": 674748,
+          "language": "nep",
+          "title": "23. येशूको जन्म"
+        }
+      }
+    },
+    "187023": {
+      "content_id": 187023,
+      "reference_id": 134114,
+      "index_reference": "24. jean baptise jésus",
+      "localizations": {
+        "eng": {
+          "content_id": 180595,
+          "language": "eng",
+          "title": "24. John Baptizes Jesus"
+        },
+        "tpi": {
+          "content_id": 674599,
+          "language": "tpi",
+          "title": "24. Jon i baptaisim Jisas"
+        },
+        "arb": {
+          "content_id": 663086,
+          "language": "arb",
+          "title": "٢٤. يوحنا يعمد الرب يسوع"
+        },
+        "hin": {
+          "content_id": 186974,
+          "language": "hin",
+          "title": "24. यूहन्ना यीशु को बपतिस्मा देता है"
+        },
+        "ind": {
+          "content_id": 674449,
+          "language": "ind",
+          "title": "24. Yohanes Membaptis Yesus"
+        },
+        "por": {
+          "content_id": 296249,
+          "language": "por",
+          "title": "24. João batiza Jesus"
+        },
+        "rus": {
+          "content_id": 674549,
+          "language": "rus",
+          "title": "24. Иоанн крестит Иисуса"
+        },
+        "spa": {
+          "content_id": 296299,
+          "language": "spa",
+          "title": "24. Juan bautiza a Jesús"
+        },
+        "swh": {
+          "content_id": 674499,
+          "language": "swh",
+          "title": "24. Yohana Anambatiza Yesu"
+        },
+        "zhs": {
+          "content_id": 674699,
+          "language": "zhs",
+          "title": "24. 约翰为耶稣施洗"
+        },
+        "nep": {
+          "content_id": 674749,
+          "language": "nep",
+          "title": "24. यूहन्‍नाले येशूलाई बप्तिस्मा दिनुभयो"
+        }
+      }
+    },
+    "187024": {
+      "content_id": 187024,
+      "reference_id": 134115,
+      "index_reference": "25. satan a tenté jésus",
+      "localizations": {
+        "eng": {
+          "content_id": 180596,
+          "language": "eng",
+          "title": "25. Satan Tempts Jesus"
+        },
+        "tpi": {
+          "content_id": 674600,
+          "language": "tpi",
+          "title": "25. Satan i Traim Jisas"
+        },
+        "arb": {
+          "content_id": 663087,
+          "language": "arb",
+          "title": "25. الشيطان يُجرب الرب يسوع"
+        },
+        "hin": {
+          "content_id": 186975,
+          "language": "hin",
+          "title": "25. शैतान यीशु की परीक्षा करता है"
+        },
+        "ind": {
+          "content_id": 674450,
+          "language": "ind",
+          "title": "25. Iblis Mencobai Yesus"
+        },
+        "por": {
+          "content_id": 296250,
+          "language": "por",
+          "title": "25. Satanás tenta Jesus"
+        },
+        "rus": {
+          "content_id": 674550,
+          "language": "rus",
+          "title": "25. Сатана испытывает Иисуса"
+        },
+        "spa": {
+          "content_id": 296300,
+          "language": "spa",
+          "title": "25. Satanás tienta a Jesús"
+        },
+        "swh": {
+          "content_id": 674500,
+          "language": "swh",
+          "title": "25. Shetani Anamjaribu Yesu"
+        },
+        "zhs": {
+          "content_id": 674700,
+          "language": "zhs",
+          "title": "25. 撒但试探耶稣"
+        },
+        "nep": {
+          "content_id": 674750,
+          "language": "nep",
+          "title": "25. शैतानद्वारा येशूको परीक्षा"
+        }
+      }
+    },
+    "187025": {
+      "content_id": 187025,
+      "reference_id": 134116,
+      "index_reference": "26. jésus commence son ministère",
+      "localizations": {
+        "eng": {
+          "content_id": 180597,
+          "language": "eng",
+          "title": "26. Jesus Starts His Ministry"
+        },
+        "tpi": {
+          "content_id": 674601,
+          "language": "tpi",
+          "title": "26. Jisas i Statim Wok Misin"
+        },
+        "arb": {
+          "content_id": 663088,
+          "language": "arb",
+          "title": "٢٦. الرب يسوع يبدأ خدمته"
+        },
+        "hin": {
+          "content_id": 186976,
+          "language": "hin",
+          "title": "26. यीशु ने अपनी सेवकाई आरम्भ की"
+        },
+        "ind": {
+          "content_id": 674451,
+          "language": "ind",
+          "title": "26. Yesus Memulai Pelayanan-Nya"
+        },
+        "por": {
+          "content_id": 296251,
+          "language": "por",
+          "title": "26. Jesus inicia o seu ministério"
+        },
+        "rus": {
+          "content_id": 674551,
+          "language": "rus",
+          "title": "26. Иисус начинает Своё служение"
+        },
+        "spa": {
+          "content_id": 296301,
+          "language": "spa",
+          "title": "26. Jesús comienza su ministerio"
+        },
+        "swh": {
+          "content_id": 674501,
+          "language": "swh",
+          "title": "26. Yesu Anaanza Huduma yake."
+        },
+        "zhs": {
+          "content_id": 674701,
+          "language": "zhs",
+          "title": "26. 耶稣开始传道"
+        },
+        "nep": {
+          "content_id": 674751,
+          "language": "nep",
+          "title": "26. येशूले आफ्नो सेवकाइ शुरू गर्नुभयो"
+        }
+      }
+    },
+    "187026": {
+      "content_id": 187026,
+      "reference_id": 134117,
+      "index_reference": "27. l’histoire du bon samaritain",
+      "localizations": {
+        "eng": {
+          "content_id": 180598,
+          "language": "eng",
+          "title": "27. The Story of the Good Samaritan"
+        },
+        "tpi": {
+          "content_id": 674602,
+          "language": "tpi",
+          "title": "27. Stori Bilong Gutpela Man Bilong Samaria"
+        },
+        "arb": {
+          "content_id": 663089,
+          "language": "arb",
+          "title": "٢٧. قصة السامري الصالح"
+        },
+        "hin": {
+          "content_id": 186977,
+          "language": "hin",
+          "title": "27. दयालु सामरी की कहानी"
+        },
+        "ind": {
+          "content_id": 674452,
+          "language": "ind",
+          "title": "27. Cerita tentang Orang Samaria yang Baik Hati"
+        },
+        "por": {
+          "content_id": 296252,
+          "language": "por",
+          "title": "27. A história do bom samaritano"
+        },
+        "rus": {
+          "content_id": 674552,
+          "language": "rus",
+          "title": "27. Добрый самарянин"
+        },
+        "spa": {
+          "content_id": 296302,
+          "language": "spa",
+          "title": "27. La historia del buen samaritano"
+        },
+        "swh": {
+          "content_id": 674502,
+          "language": "swh",
+          "title": "27. Simulizi ya Msamaria Mwema"
+        },
+        "zhs": {
+          "content_id": 674702,
+          "language": "zhs",
+          "title": "27. 好撒玛利亚人的故事"
+        },
+        "nep": {
+          "content_id": 674752,
+          "language": "nep",
+          "title": "27. असल सामरीको कथा"
+        }
+      }
+    },
+    "187027": {
+      "content_id": 187027,
+      "reference_id": 134118,
+      "index_reference": "28. le jeune homme riche",
+      "localizations": {
+        "eng": {
+          "content_id": 180599,
+          "language": "eng",
+          "title": "28. The Rich Young Ruler"
+        },
+        "tpi": {
+          "content_id": 674603,
+          "language": "tpi",
+          "title": "28. Yangpela Lida i Gat Planti Mani na Kago"
+        },
+        "arb": {
+          "content_id": 663090,
+          "language": "arb",
+          "title": "28. الشاب الغني"
+        },
+        "hin": {
+          "content_id": 186978,
+          "language": "hin",
+          "title": "28. धनी जवान शासक"
+        },
+        "ind": {
+          "content_id": 674453,
+          "language": "ind",
+          "title": "28. Penguasa Muda Yang Kaya"
+        },
+        "por": {
+          "content_id": 296253,
+          "language": "por",
+          "title": "28. O jovem rico"
+        },
+        "rus": {
+          "content_id": 674553,
+          "language": "rus",
+          "title": "28. Богатый и влиятельный юноша"
+        },
+        "spa": {
+          "content_id": 296303,
+          "language": "spa",
+          "title": "28. El gobernante joven y rico"
+        },
+        "swh": {
+          "content_id": 674503,
+          "language": "swh",
+          "title": "28. Kijana Tajiri Kiongozi"
+        },
+        "zhs": {
+          "content_id": 674703,
+          "language": "zhs",
+          "title": "28. 一个青年财主"
+        },
+        "nep": {
+          "content_id": 674753,
+          "language": "nep",
+          "title": "28. धनी जवान शासक"
+        }
+      }
+    },
+    "187028": {
+      "content_id": 187028,
+      "reference_id": 134119,
+      "index_reference": "29. la parabole du serviteur sans pitié",
+      "localizations": {
+        "eng": {
+          "content_id": 180600,
+          "language": "eng",
+          "title": "29. The Story of the Unmerciful Servant"
+        },
+        "tpi": {
+          "content_id": 674604,
+          "language": "tpi",
+          "title": "29. Stori Bilong Wokman Nogut"
+        },
+        "arb": {
+          "content_id": 663091,
+          "language": "arb",
+          "title": "29. قصة العبد الذي لا يرحم"
+        },
+        "hin": {
+          "content_id": 186979,
+          "language": "hin",
+          "title": "29. निर्दयी दास की कहानी"
+        },
+        "ind": {
+          "content_id": 674454,
+          "language": "ind",
+          "title": "29. Cerita tentang Hamba yang Tidak Berbelas Kasihan"
+        },
+        "por": {
+          "content_id": 296254,
+          "language": "por",
+          "title": "29. A história do servo sem compaixão"
+        },
+        "rus": {
+          "content_id": 674554,
+          "language": "rus",
+          "title": "29. Злой слуга"
+        },
+        "spa": {
+          "content_id": 296304,
+          "language": "spa",
+          "title": "29. La historia del siervo despiadado"
+        },
+        "swh": {
+          "content_id": 674504,
+          "language": "swh",
+          "title": "29. Simulizi ya Mtumishi Asiye na Huruma."
+        },
+        "zhs": {
+          "content_id": 674704,
+          "language": "zhs",
+          "title": "29. 一个恶仆的故事"
+        },
+        "nep": {
+          "content_id": 674754,
+          "language": "nep",
+          "title": "29. निर्दयी नोकरको दृष्टान्त"
+        }
+      }
+    },
+    "187029": {
+      "content_id": 187029,
+      "reference_id": 134120,
+      "index_reference": "30. jésus nourrit cinq mille personnes",
+      "localizations": {
+        "eng": {
+          "content_id": 180601,
+          "language": "eng",
+          "title": "30. Jesus Feeds Thousands of People"
+        },
+        "tpi": {
+          "content_id": 674605,
+          "language": "tpi",
+          "title": "30. Jisus I Givim Kaikai Long 5000 Manmeri"
+        },
+        "arb": {
+          "content_id": 663092,
+          "language": "arb",
+          "title": "٣٠. الرب يسوع يطعم آلاف الناس"
+        },
+        "hin": {
+          "content_id": 186980,
+          "language": "hin",
+          "title": "30. यीशु का पाँच हजार लोगों को भोजन खिलाना"
+        },
+        "ind": {
+          "content_id": 674455,
+          "language": "ind",
+          "title": "30. Yesus Memberi Makan Ribuan Orang"
+        },
+        "por": {
+          "content_id": 296255,
+          "language": "por",
+          "title": "30. Jesus alimenta cinco mil pessoas"
+        },
+        "rus": {
+          "content_id": 674555,
+          "language": "rus",
+          "title": "30. Иисус накормил пять тысяч человек"
+        },
+        "spa": {
+          "content_id": 296305,
+          "language": "spa",
+          "title": "30. Jesús alimenta a cinco mil personas"
+        },
+        "swh": {
+          "content_id": 674505,
+          "language": "swh",
+          "title": "30. Yesu Anawalisha Watu Elfu Tano"
+        },
+        "zhs": {
+          "content_id": 674705,
+          "language": "zhs",
+          "title": "30. 耶稣喂饱五千人"
+        },
+        "nep": {
+          "content_id": 674755,
+          "language": "nep",
+          "title": "30. येशूले पाँच हजार मानिसहरूलाई खुवाउनुभयो"
+        }
+      }
+    },
+    "187030": {
+      "content_id": 187030,
+      "reference_id": 134121,
+      "index_reference": "31. jésus marche sur les eaux",
+      "localizations": {
+        "eng": {
+          "content_id": 180602,
+          "language": "eng",
+          "title": "31. Jesus Walks on Water"
+        },
+        "tpi": {
+          "content_id": 674606,
+          "language": "tpi",
+          "title": "31. Jisas i Wokabaut Antap Long Wara"
+        },
+        "arb": {
+          "content_id": 663093,
+          "language": "arb",
+          "title": "٣١. الرب يسوع يمشي على الماء"
+        },
+        "hin": {
+          "content_id": 186981,
+          "language": "hin",
+          "title": "31. यीशु का पानी पर चलना"
+        },
+        "ind": {
+          "content_id": 674456,
+          "language": "ind",
+          "title": "31. Yesus Berjalan di Atas Air"
+        },
+        "por": {
+          "content_id": 296256,
+          "language": "por",
+          "title": "31. Jesus anda sobre as águas"
+        },
+        "rus": {
+          "content_id": 674556,
+          "language": "rus",
+          "title": "31. Иисус идёт по воде"
+        },
+        "spa": {
+          "content_id": 296306,
+          "language": "spa",
+          "title": "31. Jesús camina sobre el agua"
+        },
+        "swh": {
+          "content_id": 674506,
+          "language": "swh",
+          "title": "31. Yesu Atembea Juu ya Maji"
+        },
+        "zhs": {
+          "content_id": 674706,
+          "language": "zhs",
+          "title": "31. 耶稣在海面上行走"
+        },
+        "nep": {
+          "content_id": 674756,
+          "language": "nep",
+          "title": "31. येशू पानीमाथि हिँड्नुभयो"
+        }
+      }
+    },
+    "187031": {
+      "content_id": 187031,
+      "reference_id": 134122,
+      "index_reference": "32. jésus guérit un démoniaque et une femme malade",
+      "localizations": {
+        "eng": {
+          "content_id": 180603,
+          "language": "eng",
+          "title": "32. Jesus Heals a Demon-Possessed Man & a Sick Woman"
+        },
+        "tpi": {
+          "content_id": 674607,
+          "language": "tpi",
+          "title": "32. Jisas i Oraitim Man Wantaim Spirit Nogut Na Sik Meri"
+        },
+        "arb": {
+          "content_id": 663094,
+          "language": "arb",
+          "title": "32. الرب يسوع يشفي رجلًا به شيطان وامرأة مريضة"
+        },
+        "hin": {
+          "content_id": 186982,
+          "language": "hin",
+          "title": "32. यीशु का दुष्टात्मा ग्रस्त व्यक्ति और एक बीमार स्त्री को चंगा करना"
+        },
+        "ind": {
+          "content_id": 674457,
+          "language": "ind",
+          "title": "32. Yesus Menyembuhkan Orang yang Kerasukan Setan dan Seorang Wanita yang Sakit"
+        },
+        "por": {
+          "content_id": 296257,
+          "language": "por",
+          "title": "32. Jesus cura um endemoninhado e uma mulher enferma"
+        },
+        "rus": {
+          "content_id": 674557,
+          "language": "rus",
+          "title": "32. Иисус освобождает и исцеляет людей"
+        },
+        "spa": {
+          "content_id": 296307,
+          "language": "spa",
+          "title": "32. Jesús sana a un hombre endemoniado y a una mujer enferma"
+        },
+        "swh": {
+          "content_id": 674507,
+          "language": "swh",
+          "title": "32. Yesu Amponya Mwanamume Aliyepagawa - pepo na Mwanamke Mgojwa"
+        },
+        "zhs": {
+          "content_id": 674707,
+          "language": "zhs",
+          "title": "32. 耶稣医治被鬼附的男人和生病的女人"
+        },
+        "nep": {
+          "content_id": 674757,
+          "language": "nep",
+          "title": "32. येशूले भूतात्मा लागेको मानिस र रोगी स्‍त्रीलाई निको पार्नुभयो"
+        }
+      }
+    },
+    "187032": {
+      "content_id": 187032,
+      "reference_id": 134123,
+      "index_reference": "33. la parabole du semeur",
+      "localizations": {
+        "eng": {
+          "content_id": 180604,
+          "language": "eng",
+          "title": "33. The Story of the Farmer"
+        },
+        "tpi": {
+          "content_id": 674608,
+          "language": "tpi",
+          "title": "33. Stori Bilong Wanpela Fama"
+        },
+        "arb": {
+          "content_id": 663095,
+          "language": "arb",
+          "title": "٣٣. قصة المزارع"
+        },
+        "hin": {
+          "content_id": 186983,
+          "language": "hin",
+          "title": "33. एक किसान की कहानी"
+        },
+        "ind": {
+          "content_id": 674458,
+          "language": "ind",
+          "title": "33. Kisah Sang Petani"
+        },
+        "por": {
+          "content_id": 296258,
+          "language": "por",
+          "title": "33. A história do semeador"
+        },
+        "rus": {
+          "content_id": 674558,
+          "language": "rus",
+          "title": "33. Рассказ о земледельце"
+        },
+        "spa": {
+          "content_id": 296308,
+          "language": "spa",
+          "title": "33. La historia del agricultor"
+        },
+        "swh": {
+          "content_id": 674508,
+          "language": "swh",
+          "title": "33. Simulizi ya Mkulima"
+        },
+        "zhs": {
+          "content_id": 674708,
+          "language": "zhs",
+          "title": "33. 农夫的故事"
+        },
+        "nep": {
+          "content_id": 674758,
+          "language": "nep",
+          "title": "33. किसानको कथा"
+        }
+      }
+    },
+    "187033": {
+      "content_id": 187033,
+      "reference_id": 134124,
+      "index_reference": "34. jésus enseigne d’autres paraboles",
+      "localizations": {
+        "eng": {
+          "content_id": 180605,
+          "language": "eng",
+          "title": "34. Jesus Teaches Other Stories"
+        },
+        "tpi": {
+          "content_id": 674609,
+          "language": "tpi",
+          "title": "34. Jisas i Skulim Planti Arapela Stori"
+        },
+        "arb": {
+          "content_id": 663096,
+          "language": "arb",
+          "title": "٣٤. يسوع يعلم قصصًا أخرى"
+        },
+        "hin": {
+          "content_id": 186984,
+          "language": "hin",
+          "title": "34.यीशु दूसरी कहानियों की शिक्षा देता है"
+        },
+        "ind": {
+          "content_id": 674459,
+          "language": "ind",
+          "title": "34. Yesus Mengajarkan Kisah-kisah yang Lainnya"
+        },
+        "por": {
+          "content_id": 296259,
+          "language": "por",
+          "title": "34. Jesus ensina outras histórias"
+        },
+        "rus": {
+          "content_id": 674559,
+          "language": "rus",
+          "title": "34. Иисус учит притчами"
+        },
+        "spa": {
+          "content_id": 296309,
+          "language": "spa",
+          "title": "34. Jesús enseña otras historias"
+        },
+        "swh": {
+          "content_id": 674509,
+          "language": "swh",
+          "title": "34. Yesu Anafundisha Mambo Mengine"
+        },
+        "zhs": {
+          "content_id": 674709,
+          "language": "zhs",
+          "title": "34. 耶稣教导其他故事"
+        },
+        "nep": {
+          "content_id": 674759,
+          "language": "nep",
+          "title": "34. येशूले अरू कथाहरू सिकाउनुभयो"
+        }
+      }
+    },
+    "187034": {
+      "content_id": 187034,
+      "reference_id": 134125,
+      "index_reference": "35. la parabole du père compatissant",
+      "localizations": {
+        "eng": {
+          "content_id": 180606,
+          "language": "eng",
+          "title": "35. The Story of the Compassionate Father"
+        },
+        "tpi": {
+          "content_id": 674610,
+          "language": "tpi",
+          "title": "35. Stori Bilong Papa i Pulap Long Pasin Sori"
+        },
+        "arb": {
+          "content_id": 663097,
+          "language": "arb",
+          "title": "٣٥. قصة الأب الحنون"
+        },
+        "hin": {
+          "content_id": 186985,
+          "language": "hin",
+          "title": "35. दयालु पिता की कहानी"
+        },
+        "ind": {
+          "content_id": 674460,
+          "language": "ind",
+          "title": "35. Kisah tentang Bapa yang Penuh Kasih"
+        },
+        "por": {
+          "content_id": 296260,
+          "language": "por",
+          "title": "35. A história do pai compassivo"
+        },
+        "rus": {
+          "content_id": 674560,
+          "language": "rus",
+          "title": "35. Распутный сын и прощающий отец"
+        },
+        "spa": {
+          "content_id": 296310,
+          "language": "spa",
+          "title": "35. La historia del padre compasivo"
+        },
+        "swh": {
+          "content_id": 674510,
+          "language": "swh",
+          "title": "35. Habari za Baba mwenye Huruma"
+        },
+        "zhs": {
+          "content_id": 674710,
+          "language": "zhs",
+          "title": "35. 仁慈的父亲的故事"
+        },
+        "nep": {
+          "content_id": 674760,
+          "language": "nep",
+          "title": "35. दयालु बुबाको कथा"
+        }
+      }
+    },
+    "187035": {
+      "content_id": 187035,
+      "reference_id": 134126,
+      "index_reference": "36. la transfiguration",
+      "localizations": {
+        "eng": {
+          "content_id": 180607,
+          "language": "eng",
+          "title": "36. The Transfiguration"
+        },
+        "tpi": {
+          "content_id": 674611,
+          "language": "tpi",
+          "title": "36. Lukluk Bilong Jisas i Senis Na i Kamap Narakain"
+        },
+        "arb": {
+          "content_id": 663098,
+          "language": "arb",
+          "title": "٣٦. التجلي"
+        },
+        "hin": {
+          "content_id": 186986,
+          "language": "hin",
+          "title": "36. रूपान्तरण"
+        },
+        "ind": {
+          "content_id": 674461,
+          "language": "ind",
+          "title": "36. Transfigurasi"
+        },
+        "por": {
+          "content_id": 296261,
+          "language": "por",
+          "title": "36. A transfiguração"
+        },
+        "rus": {
+          "content_id": 674561,
+          "language": "rus",
+          "title": "36. Преображение"
+        },
+        "spa": {
+          "content_id": 296311,
+          "language": "spa",
+          "title": "36. La transfiguración"
+        },
+        "swh": {
+          "content_id": 674511,
+          "language": "swh",
+          "title": "36. Kubadilika Sura"
+        },
+        "zhs": {
+          "content_id": 674711,
+          "language": "zhs",
+          "title": "36. 变像"
+        },
+        "nep": {
+          "content_id": 674761,
+          "language": "nep",
+          "title": "36. येशूको रूप परिवर्तन"
+        }
+      }
+    },
+    "187036": {
+      "content_id": 187036,
+      "reference_id": 134127,
+      "index_reference": "37. jésus ressuscite lazare",
+      "localizations": {
+        "eng": {
+          "content_id": 180608,
+          "language": "eng",
+          "title": "37. Jesus Raises Lazarus from the Dead"
+        },
+        "tpi": {
+          "content_id": 674612,
+          "language": "tpi",
+          "title": "37. Jisas i Kirapim Lasarus"
+        },
+        "arb": {
+          "content_id": 663099,
+          "language": "arb",
+          "title": "٣٧. الرب يسوع يقيم لعازر من الموت"
+        },
+        "hin": {
+          "content_id": 186987,
+          "language": "hin",
+          "title": "37. यीशु द्वारा लाज़र को मृतकों में से जिलाया जाना"
+        },
+        "ind": {
+          "content_id": 674462,
+          "language": "ind",
+          "title": "37. Yesus Membangkitkan Lazarus dari Kematian"
+        },
+        "por": {
+          "content_id": 296262,
+          "language": "por",
+          "title": "37. Jesus ressuscita Lázaro dentre os mortos"
+        },
+        "rus": {
+          "content_id": 674562,
+          "language": "rus",
+          "title": "37. Иисус воскрешает Лазаря из мёртвых"
+        },
+        "spa": {
+          "content_id": 296312,
+          "language": "spa",
+          "title": "37. Jesús levanta a Lázaro de entre los muertos"
+        },
+        "swh": {
+          "content_id": 674512,
+          "language": "swh",
+          "title": "37. Yesu Amfufua Lazaro kutoka Wafu"
+        },
+        "zhs": {
+          "content_id": 674712,
+          "language": "zhs",
+          "title": "37. 耶稣让拉撒路从死里复活"
+        },
+        "nep": {
+          "content_id": 674762,
+          "language": "nep",
+          "title": "37. येशूले लाजरसलाई मृत्युबाट बिउताउनुभयो"
+        }
+      }
+    },
+    "187037": {
+      "content_id": 187037,
+      "reference_id": 134128,
+      "index_reference": "38. judas trahit jésus",
+      "localizations": {
+        "eng": {
+          "content_id": 180609,
+          "language": "eng",
+          "title": "38. Jesus Is Betrayed"
+        },
+        "tpi": {
+          "content_id": 674613,
+          "language": "tpi",
+          "title": "38. Judas i Putim Jisas Long Han Bilong Ol Birua"
+        },
+        "arb": {
+          "content_id": 663100,
+          "language": "arb",
+          "title": "٣٨. خيانة يهوذا ليسوع"
+        },
+        "hin": {
+          "content_id": 186988,
+          "language": "hin",
+          "title": "38. यीशु के साथ विश्वासघात"
+        },
+        "ind": {
+          "content_id": 674463,
+          "language": "ind",
+          "title": "38. Yesus Dikhianati"
+        },
+        "por": {
+          "content_id": 296263,
+          "language": "por",
+          "title": "38. Jesus é traído"
+        },
+        "rus": {
+          "content_id": 674563,
+          "language": "rus",
+          "title": "38. Иисус предан"
+        },
+        "spa": {
+          "content_id": 296313,
+          "language": "spa",
+          "title": "38. Jesús es traicionado"
+        },
+        "swh": {
+          "content_id": 674513,
+          "language": "swh",
+          "title": "38. Yesu Anasalitiwa"
+        },
+        "zhs": {
+          "content_id": 674713,
+          "language": "zhs",
+          "title": "38. 耶稣遭到背叛"
+        },
+        "nep": {
+          "content_id": 674763,
+          "language": "nep",
+          "title": "38. येशूलाई धोखा"
+        }
+      }
+    },
+    "187038": {
+      "content_id": 187038,
+      "reference_id": 134129,
+      "index_reference": "39. jésus comparaît devant le tribunal",
+      "localizations": {
+        "eng": {
+          "content_id": 180610,
+          "language": "eng",
+          "title": "39. Jesus Is Put on Trial"
+        },
+        "tpi": {
+          "content_id": 674614,
+          "language": "tpi",
+          "title": "39. Ol i Kotim Jisas"
+        },
+        "arb": {
+          "content_id": 663101,
+          "language": "arb",
+          "title": "39. يسوع قيد المحاكمة"
+        },
+        "hin": {
+          "content_id": 186989,
+          "language": "hin",
+          "title": "39. यीशु का परीक्षण किया जाता है।"
+        },
+        "ind": {
+          "content_id": 674464,
+          "language": "ind",
+          "title": "39. Yesus diadili"
+        },
+        "por": {
+          "content_id": 296264,
+          "language": "por",
+          "title": "39. Jesus é julgado"
+        },
+        "rus": {
+          "content_id": 674564,
+          "language": "rus",
+          "title": "39. Иисус предстаёт перед судом"
+        },
+        "spa": {
+          "content_id": 296314,
+          "language": "spa",
+          "title": "39. Jesús es llevado a juicio"
+        },
+        "swh": {
+          "content_id": 674514,
+          "language": "swh",
+          "title": "39. Yesu Anashitakiwa."
+        },
+        "zhs": {
+          "content_id": 674714,
+          "language": "zhs",
+          "title": "39. 耶稣遭受审判"
+        },
+        "nep": {
+          "content_id": 674764,
+          "language": "nep",
+          "title": "39. महासभाको सम्‍मुख येशू"
+        }
+      }
+    },
+    "187039": {
+      "content_id": 187039,
+      "reference_id": 134130,
+      "index_reference": "40. jésus est crucifié",
+      "localizations": {
+        "eng": {
+          "content_id": 180611,
+          "language": "eng",
+          "title": "40. Jesus Is Crucified"
+        },
+        "tpi": {
+          "content_id": 674615,
+          "language": "tpi",
+          "title": "40. Ol i Hangamapim Jisas Long Diwai Kros"
+        },
+        "arb": {
+          "content_id": 663102,
+          "language": "arb",
+          "title": "٤٠. صلب يسوع"
+        },
+        "hin": {
+          "content_id": 186990,
+          "language": "hin",
+          "title": "40. यीशु को क्रूस पर चढ़ाया जाता है"
+        },
+        "ind": {
+          "content_id": 674465,
+          "language": "ind",
+          "title": "40. Yesus Disalibkan"
+        },
+        "por": {
+          "content_id": 296265,
+          "language": "por",
+          "title": "40. Jesus é crucificado"
+        },
+        "rus": {
+          "content_id": 674565,
+          "language": "rus",
+          "title": "40. Казнь Иисуса на кресте"
+        },
+        "spa": {
+          "content_id": 296315,
+          "language": "spa",
+          "title": "40. Jesús es crucificado"
+        },
+        "swh": {
+          "content_id": 674515,
+          "language": "swh",
+          "title": "40. Yesu Anasulubiwa"
+        },
+        "zhs": {
+          "content_id": 674715,
+          "language": "zhs",
+          "title": "40. 耶稣被钉十字架"
+        },
+        "nep": {
+          "content_id": 674765,
+          "language": "nep",
+          "title": "40. येशू क्रुसमा टाँगिनुभयो"
+        }
+      }
+    },
+    "187040": {
+      "content_id": 187040,
+      "reference_id": 134131,
+      "index_reference": "41. dieu ressuscite jésus d’entre les morts",
+      "localizations": {
+        "eng": {
+          "content_id": 180612,
+          "language": "eng",
+          "title": "41. God Raises Jesus from the Dead"
+        },
+        "tpi": {
+          "content_id": 674616,
+          "language": "tpi",
+          "title": "41. God i Kirapim Jisas Bek Long Dai."
+        },
+        "arb": {
+          "content_id": 663103,
+          "language": "arb",
+          "title": "٤١. ٱلله يقيم الرب يسوع من الموت"
+        },
+        "hin": {
+          "content_id": 186991,
+          "language": "hin",
+          "title": "41. परमेश्वर यीशु को मरे हुओं में से जिलाया"
+        },
+        "ind": {
+          "content_id": 674466,
+          "language": "ind",
+          "title": "41. Allah Membangkitkan Yesus Dari Kematian"
+        },
+        "por": {
+          "content_id": 296266,
+          "language": "por",
+          "title": "41. Jesus ressuscita dentre dos mortos"
+        },
+        "rus": {
+          "content_id": 674566,
+          "language": "rus",
+          "title": "41. Бог воскрешает Иисуса из мёртвых"
+        },
+        "spa": {
+          "content_id": 296316,
+          "language": "spa",
+          "title": "41. Dios levanta a Jesús de entre los muertos"
+        },
+        "swh": {
+          "content_id": 674516,
+          "language": "swh",
+          "title": "41. Mungu Anamfufua Yesu kutoka katika Wafu"
+        },
+        "zhs": {
+          "content_id": 674716,
+          "language": "zhs",
+          "title": "41. 上帝让耶稣从死里复活"
+        },
+        "nep": {
+          "content_id": 674766,
+          "language": "nep",
+          "title": "41. परमेश्‍वरले येशूलाई मृतकबाट बौरी उठाउनुभयो"
+        }
+      }
+    },
+    "187041": {
+      "content_id": 187041,
+      "reference_id": 134132,
+      "index_reference": "42. jésus retourne au ciel",
+      "localizations": {
+        "eng": {
+          "content_id": 180613,
+          "language": "eng",
+          "title": "42. Jesus Returns to Heaven"
+        },
+        "tpi": {
+          "content_id": 674617,
+          "language": "tpi",
+          "title": "42. Jisas i Go Bek Gen Long Heven"
+        },
+        "arb": {
+          "content_id": 663104,
+          "language": "arb",
+          "title": "٤٢. عودة يسوع إلى السماء"
+        },
+        "hin": {
+          "content_id": 186992,
+          "language": "hin",
+          "title": "42. यीशु स्वर्ग को लौट जाता है"
+        },
+        "ind": {
+          "content_id": 674467,
+          "language": "ind",
+          "title": "42. Yesus Kembali Ke Surga"
+        },
+        "por": {
+          "content_id": 296267,
+          "language": "por",
+          "title": "42. Jesus retorna ao céu"
+        },
+        "rus": {
+          "content_id": 674567,
+          "language": "rus",
+          "title": "42. Иисус возвращается на Небеса"
+        },
+        "spa": {
+          "content_id": 296317,
+          "language": "spa",
+          "title": "42. Jesús regresa al cielo"
+        },
+        "swh": {
+          "content_id": 674517,
+          "language": "swh",
+          "title": "42. Yesu Anarudi Mbinguni"
+        },
+        "zhs": {
+          "content_id": 674717,
+          "language": "zhs",
+          "title": "42. 耶稣复活升天"
+        },
+        "nep": {
+          "content_id": 674767,
+          "language": "nep",
+          "title": "42. येशू स्वर्ग फर्कनुभयो"
+        }
+      }
+    },
+    "187042": {
+      "content_id": 187042,
+      "reference_id": 134133,
+      "index_reference": "43. le commencement de l’église",
+      "localizations": {
+        "eng": {
+          "content_id": 180614,
+          "language": "eng",
+          "title": "43. The Church Begins"
+        },
+        "tpi": {
+          "content_id": 674618,
+          "language": "tpi",
+          "title": "43. Stat Bilong Sios"
+        },
+        "arb": {
+          "content_id": 663105,
+          "language": "arb",
+          "title": "٤٣. نشأة الكنيسة"
+        },
+        "hin": {
+          "content_id": 186993,
+          "language": "hin",
+          "title": "43. कलीसिया का आरम्भ"
+        },
+        "ind": {
+          "content_id": 674468,
+          "language": "ind",
+          "title": "43. Gereja Dimulai"
+        },
+        "por": {
+          "content_id": 296268,
+          "language": "por",
+          "title": "43. O início da igreja"
+        },
+        "rus": {
+          "content_id": 674568,
+          "language": "rus",
+          "title": "43. Рождение Церкви"
+        },
+        "spa": {
+          "content_id": 296318,
+          "language": "spa",
+          "title": "43. Empieza la Iglesia"
+        },
+        "swh": {
+          "content_id": 674518,
+          "language": "swh",
+          "title": "43. Kanisa Linaanza"
+        },
+        "zhs": {
+          "content_id": 674718,
+          "language": "zhs",
+          "title": "43. 教会开始"
+        },
+        "nep": {
+          "content_id": 674768,
+          "language": "nep",
+          "title": "43. मण्डलीको शुरूवात"
+        }
+      }
+    },
+    "187043": {
+      "content_id": 187043,
+      "reference_id": 134134,
+      "index_reference": "44. pierre et jean guérissent un mendiant",
+      "localizations": {
+        "eng": {
+          "content_id": 180615,
+          "language": "eng",
+          "title": "44. Peter and John Heal a Beggar"
+        },
+        "tpi": {
+          "content_id": 674619,
+          "language": "tpi",
+          "title": "44. Pita Na Jon i Oraitim Wanpela Tarangu Man"
+        },
+        "arb": {
+          "content_id": 663106,
+          "language": "arb",
+          "title": "٤٤. بطرس ويوحنا يشفيان رجلًا يستعطي"
+        },
+        "hin": {
+          "content_id": 186994,
+          "language": "hin",
+          "title": "44. पतरस और यूहन्ना द्वारा एक भिखारी को चंगा करना"
+        },
+        "ind": {
+          "content_id": 674469,
+          "language": "ind",
+          "title": "44. Petrus dan Yohanes Menyembuhkan Seorang Pengemis"
+        },
+        "por": {
+          "content_id": 296269,
+          "language": "por",
+          "title": "44. Pedro e João curam um mendigo"
+        },
+        "rus": {
+          "content_id": 674569,
+          "language": "rus",
+          "title": "44. Пётр и Иоанн исцеляют хромого человека"
+        },
+        "spa": {
+          "content_id": 296319,
+          "language": "spa",
+          "title": "44. Pedro y Juan curan a un mendigo"
+        },
+        "swh": {
+          "content_id": 674519,
+          "language": "swh",
+          "title": "44. Petro na Yohana Wamponya Ombaomba"
+        },
+        "zhs": {
+          "content_id": 674719,
+          "language": "zhs",
+          "title": "44.彼得和约翰医治乞丐"
+        },
+        "nep": {
+          "content_id": 674769,
+          "language": "nep",
+          "title": "44. पत्रुस र यूहन्‍नाले भिखारीलाई निको पारे"
+        }
+      }
+    },
+    "187044": {
+      "content_id": 187044,
+      "reference_id": 134135,
+      "index_reference": "45. étienne et philippe",
+      "localizations": {
+        "eng": {
+          "content_id": 180616,
+          "language": "eng",
+          "title": "45. Stephen and Philip"
+        },
+        "tpi": {
+          "content_id": 674620,
+          "language": "tpi",
+          "title": "45. Wanpela Gavana Bilong Itiopia Wantaim Pilip"
+        },
+        "arb": {
+          "content_id": 663107,
+          "language": "arb",
+          "title": "٤٥. استفانوس وفيلبس"
+        },
+        "hin": {
+          "content_id": 186995,
+          "language": "hin",
+          "title": "45.स्तिफनुस और फिलिप्पुस"
+        },
+        "ind": {
+          "content_id": 674470,
+          "language": "ind",
+          "title": "45. Stefanus dan Filipus"
+        },
+        "por": {
+          "content_id": 296270,
+          "language": "por",
+          "title": "45. Filipe e o alto funcionário etíope"
+        },
+        "rus": {
+          "content_id": 674570,
+          "language": "rus",
+          "title": "45. Стефан и Филипп"
+        },
+        "spa": {
+          "content_id": 296320,
+          "language": "spa",
+          "title": "45. Esteban y Felipe"
+        },
+        "swh": {
+          "content_id": 674520,
+          "language": "swh",
+          "title": "45. Stephano na Filipo"
+        },
+        "zhs": {
+          "content_id": 674720,
+          "language": "zhs",
+          "title": "45.司提反和腓利"
+        },
+        "nep": {
+          "content_id": 674770,
+          "language": "nep",
+          "title": "45. फिलिप र स्तिफनस"
+        }
+      }
+    },
+    "187045": {
+      "content_id": 187045,
+      "reference_id": 134136,
+      "index_reference": "46. la conversion de saul",
+      "localizations": {
+        "eng": {
+          "content_id": 180617,
+          "language": "eng",
+          "title": "46. Saul Becomes a Follower of Jesus"
+        },
+        "tpi": {
+          "content_id": 674621,
+          "language": "tpi",
+          "title": "46. Pol i Kamap Kristen"
+        },
+        "arb": {
+          "content_id": 663108,
+          "language": "arb",
+          "title": "٤٦. شاول يتبع الرب يسوع"
+        },
+        "hin": {
+          "content_id": 186996,
+          "language": "hin",
+          "title": "46. शाऊल (पौलुस) का यीशु का अनुयायी बनना"
+        },
+        "ind": {
+          "content_id": 674471,
+          "language": "ind",
+          "title": "46. Saulus Menjadi Pengikut Yesus"
+        },
+        "por": {
+          "content_id": 296271,
+          "language": "por",
+          "title": "46. A conversão de Paulo"
+        },
+        "rus": {
+          "content_id": 674571,
+          "language": "rus",
+          "title": "46. Савл становится учеником Иисуса"
+        },
+        "spa": {
+          "content_id": 296321,
+          "language": "spa",
+          "title": "46. Saulo se convierte en cristiano"
+        },
+        "swh": {
+          "content_id": 674521,
+          "language": "swh",
+          "title": "46. Paulo Anakuwa Mkristo"
+        },
+        "zhs": {
+          "content_id": 674721,
+          "language": "zhs",
+          "title": "46. 保罗成为基督徒"
+        },
+        "nep": {
+          "content_id": 674771,
+          "language": "nep",
+          "title": "46. पावल विश्‍वासी हुनुभयो"
+        }
+      }
+    },
+    "187046": {
+      "content_id": 187046,
+      "reference_id": 134137,
+      "index_reference": "47. paul et silas à philippes",
+      "localizations": {
+        "eng": {
+          "content_id": 180618,
+          "language": "eng",
+          "title": "47. Paul and Silas in Philippi"
+        },
+        "tpi": {
+          "content_id": 674622,
+          "language": "tpi",
+          "title": "47. Pol Na Sailas i Stap Long Filipai"
+        },
+        "arb": {
+          "content_id": 663109,
+          "language": "arb",
+          "title": "٤٧. بولس وسيلا في فيلبي"
+        },
+        "hin": {
+          "content_id": 186997,
+          "language": "hin",
+          "title": "47. फिलिप्पी में पौलुस और सीलास"
+        },
+        "ind": {
+          "content_id": 674472,
+          "language": "ind",
+          "title": "47. Paulus dan Silas di Filipi"
+        },
+        "por": {
+          "content_id": 296272,
+          "language": "por",
+          "title": "47. Paulo e Silas em Filipos"
+        },
+        "rus": {
+          "content_id": 674572,
+          "language": "rus",
+          "title": "47. Павел и Сила в Филиппах"
+        },
+        "spa": {
+          "content_id": 296322,
+          "language": "spa",
+          "title": "47. Pablo y Silas en Filipos"
+        },
+        "swh": {
+          "content_id": 674522,
+          "language": "swh",
+          "title": "47. Paulo na Sila wakiwa Filipi"
+        },
+        "zhs": {
+          "content_id": 674722,
+          "language": "zhs",
+          "title": "47. 保罗和西拉在腓立比"
+        },
+        "nep": {
+          "content_id": 674772,
+          "language": "nep",
+          "title": "47. पावल र सिलास फिलिप्पीमा"
+        }
+      }
+    },
+    "187047": {
+      "content_id": 187047,
+      "reference_id": 134138,
+      "index_reference": "48. jésus est le messie promis",
+      "localizations": {
+        "eng": {
+          "content_id": 180619,
+          "language": "eng",
+          "title": "48. Jesus Is the Promised Messiah"
+        },
+        "tpi": {
+          "content_id": 674623,
+          "language": "tpi",
+          "title": "48. Jisas Em Dispela Promis Mesaia"
+        },
+        "arb": {
+          "content_id": 663110,
+          "language": "arb",
+          "title": "٤٨. الرب يسوع هو المسيّا المنتظر"
+        },
+        "hin": {
+          "content_id": 186998,
+          "language": "hin",
+          "title": "48.यीशु ही प्रतिज्ञा किया हुआ मसीह है"
+        },
+        "ind": {
+          "content_id": 674473,
+          "language": "ind",
+          "title": "48. Yesus adalah Mesias yang dijanjikan"
+        },
+        "por": {
+          "content_id": 296273,
+          "language": "por",
+          "title": "48. Jesus é o Messias prometido"
+        },
+        "rus": {
+          "content_id": 674573,
+          "language": "rus",
+          "title": "48. Иисус — это обещанный Мессия"
+        },
+        "spa": {
+          "content_id": 296323,
+          "language": "spa",
+          "title": "48. Jesús es el Mesías prometido"
+        },
+        "swh": {
+          "content_id": 674523,
+          "language": "swh",
+          "title": "48. Yesu ndiye Masihi aliyeahidiwa:"
+        },
+        "zhs": {
+          "content_id": 674723,
+          "language": "zhs",
+          "title": "48. 耶稣是应许的那位弥赛亚"
+        },
+        "nep": {
+          "content_id": 674773,
+          "language": "nep",
+          "title": "48. येशू प्रतिज्ञा गरिएको मसिह हुनुहुन्छ"
+        }
+      }
+    },
+    "187048": {
+      "content_id": 187048,
+      "reference_id": 134139,
+      "index_reference": "49. la nouvelle alliance de dieu",
+      "localizations": {
+        "eng": {
+          "content_id": 180620,
+          "language": "eng",
+          "title": "49. God’s New Covenant"
+        },
+        "tpi": {
+          "content_id": 674624,
+          "language": "tpi",
+          "title": "49. Nupela Kontrak Bilong God"
+        },
+        "arb": {
+          "content_id": 663111,
+          "language": "arb",
+          "title": "49. العهد الجديد مع الله"
+        },
+        "hin": {
+          "content_id": 186999,
+          "language": "hin",
+          "title": "49. परमेश्वर की नई वाचा"
+        },
+        "ind": {
+          "content_id": 674474,
+          "language": "ind",
+          "title": "49. Perjanjian Baru Allah"
+        },
+        "por": {
+          "content_id": 296274,
+          "language": "por",
+          "title": "49. A nova aliança de Deus"
+        },
+        "rus": {
+          "content_id": 674574,
+          "language": "rus",
+          "title": "49. Новый Завет, установленный Богом"
+        },
+        "spa": {
+          "content_id": 296324,
+          "language": "spa",
+          "title": "49. El Nuevo Pacto de Dios"
+        },
+        "swh": {
+          "content_id": 674524,
+          "language": "swh",
+          "title": "49. Agano Jipya la Mungu"
+        },
+        "zhs": {
+          "content_id": 674724,
+          "language": "zhs",
+          "title": "49. 上帝的新约"
+        },
+        "nep": {
+          "content_id": 674774,
+          "language": "nep",
+          "title": "49. परमेश्‍वरको नयाँ करार"
+        }
+      }
+    },
+    "187049": {
+      "content_id": 187049,
+      "reference_id": 134140,
+      "index_reference": "50. jésus revient",
+      "localizations": {
+        "eng": {
+          "content_id": 180621,
+          "language": "eng",
+          "title": "50. Jesus Returns"
+        },
+        "tpi": {
+          "content_id": 674625,
+          "language": "tpi",
+          "title": "50. Jisas Bai i Kam Bek"
+        },
+        "arb": {
+          "content_id": 663112,
+          "language": "arb",
+          "title": "50. عودة الرب يسوع"
+        },
+        "hin": {
+          "content_id": 187000,
+          "language": "hin",
+          "title": "50. जब यीशु वापस लौटेगा"
+        },
+        "ind": {
+          "content_id": 674475,
+          "language": "ind",
+          "title": "50. Yesus Kembali"
+        },
+        "por": {
+          "content_id": 296275,
+          "language": "por",
+          "title": "50. A volta de Jesus"
+        },
+        "rus": {
+          "content_id": 674575,
+          "language": "rus",
+          "title": "50. Иисус вернётся"
+        },
+        "spa": {
+          "content_id": 296325,
+          "language": "spa",
+          "title": "50. Jesús vuelve"
+        },
+        "swh": {
+          "content_id": 674525,
+          "language": "swh",
+          "title": "50. Yesu Anarudi"
+        },
+        "zhs": {
+          "content_id": 674725,
+          "language": "zhs",
+          "title": "50. 耶稣归来"
+        },
+        "nep": {
+          "content_id": 674775,
+          "language": "nep",
+          "title": "50. येशू फेरी आउनुहुनेछ"
+        }
+      }
+    }
+  }
+}

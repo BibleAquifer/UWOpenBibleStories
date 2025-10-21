@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 180596,
+    "reference_id": 134115,
+    "title": "25. Satan Tempts Jesus",
+    "media_type": "Text",
+    "index_reference": "25. satan tempts jesus",
+    "language": "eng",
+    "content": "<video controls=\"true\" style=\"width: 100%\" src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/mp4/en/obs_25_360p.mp4\"><source src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/mp4/en/obs_25_360p.mp4\"></video><h1>25. Satan Tempts Jesus</h1><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-25-01.jpg\" alt=\"OBS Image\"><p>Immediately after Jesus was baptized, the Holy Spirit led him out into the wilderness. Jesus was there for 40 days and 40 nights. During that time he fasted, and Satan came to Jesus and tempted him to sin.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-25-02.jpg\" alt=\"OBS Image\"><p>First, Satan said to Jesus, “If you are the Son of God, turn these rocks into bread so you can eat!”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-25-03.jpg\" alt=\"OBS Image\"><p>But Jesus said to Satan, “It is written in God’s word, ‘People do not only need bread in order to live, but they need everything that God tells them!’”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-25-04.jpg\" alt=\"OBS Image\"><p>Then Satan took Jesus to the highest point on the Temple. He said to him, “If you are the Son of God, jump off to the ground, because it is written, ‘God will command his angels to carry you so your foot does not hit a stone.’”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-25-05.jpg\" alt=\"OBS Image\"><p>But Jesus did not do what Satan asked him to do. Instead, he said, “God tells everyone, ‘Do not test the Lord your God.’”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-25-06.jpg\" alt=\"OBS Image\"><p>Then Satan showed Jesus all the kingdoms of the world. He showed him how powerful they were, and how wealthy they were. He said to Jesus, “I will give you all this if you bow down and worship me.”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-25-07.jpg\" alt=\"OBS Image\"><p>Jesus replied, “Get away from me, Satan! In God’s word he commands his people, ‘Worship only the Lord your God. Honor only him as God.’”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-25-08.jpg\" alt=\"OBS Image\"><p>Jesus did not give in to Satan’s temptations, so Satan left him. Then angels came and took care of Jesus.</p><p><em>A Bible story from: Matthew 4:1–11; Mark 1:12–13; Luke 4:1–13</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42004001",
+          "start_ref_usfm": "LUK 4:1",
+          "end_ref": "42004013",
+          "end_ref_usfm": "LUK 4:13"
+        },
+        {
+          "start_ref": "40004001",
+          "start_ref_usfm": "MAT 4:1",
+          "end_ref": "40004011",
+          "end_ref_usfm": "MAT 4:11"
+        },
+        {
+          "start_ref": "41001012",
+          "start_ref_usfm": "MRK 1:12",
+          "end_ref": "41001013",
+          "end_ref_usfm": "MRK 1:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

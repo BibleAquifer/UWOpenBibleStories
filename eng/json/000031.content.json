@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 180602,
+    "reference_id": 134121,
+    "title": "31. Jesus Walks on Water",
+    "media_type": "Text",
+    "index_reference": "31. jesus walks on water",
+    "language": "eng",
+    "content": "<video controls=\"true\" style=\"width: 100%\" src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/mp4/en/obs_31_360p.mp4\"><source src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/mp4/en/obs_31_360p.mp4\"></video><h1>31. Jesus Walks on Water</h1><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-31-01.jpg\" alt=\"OBS Image\"><p>After Jesus fed the crowd, he told the disciples to get into a boat. He told them to sail to the other side of the lake while he stayed behind for a little while. So the disciples left, and Jesus sent the crowd to their homes. After that Jesus went up on a mountainside to pray. He was there all alone, and he prayed until late at night.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-31-02.jpg\" alt=\"OBS Image\"><p>During this time, the disciples were rowing their boat, but the wind was blowing hard against them. When it was late in the night, they had only reached the middle of the lake.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-31-03.jpg\" alt=\"OBS Image\"><p>At that time, Jesus finished praying and started to go back to meet his disciples. He walked on top of the water toward their boat.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-31-04.jpg\" alt=\"OBS Image\"><p>Then the disciples saw him. They were very afraid because they thought he was a ghost. Jesus knew that they were afraid, so he called out to them and said, “Do not be afraid. It is I!”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-31-05.jpg\" alt=\"OBS Image\"><p>Then Peter said to Jesus, “Master, if it is you, command me to come to you on the water.” Jesus told Peter, “Come!”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-31-06.jpg\" alt=\"OBS Image\"><p>So, Peter got out of the boat and started walking to Jesus on the surface of the water. But after walking a short distance, he turned his eyes away from Jesus and began to look at the waves and to feel the strong wind.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-31-07.jpg\" alt=\"OBS Image\"><p>Then Peter became afraid and began to sink in the water. He cried out, “Master, save me!” Right away, Jesus reached out and grabbed him. Then he said to Peter, “You have so little faith! Why did you not trust me to keep you safe?”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-31-08.jpg\" alt=\"OBS Image\"><p>Then Peter and Jesus got into the boat, and the wind immediately stopped blowing. The water became calm. The disciples were amazed and bowed down to Jesus. They worshiped him and said to him, “Truly, you are the Son of God.”</p><p><em>A Bible story from: Matthew 14:22–33; Mark 6:45–52; John 6:16–21</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43006016",
+          "start_ref_usfm": "JHN 6:16",
+          "end_ref": "43006021",
+          "end_ref_usfm": "JHN 6:21"
+        },
+        {
+          "start_ref": "41006045",
+          "start_ref_usfm": "MRK 6:45",
+          "end_ref": "41006052",
+          "end_ref_usfm": "MRK 6:52"
+        },
+        {
+          "start_ref": "40014022",
+          "start_ref_usfm": "MAT 14:22",
+          "end_ref": "40014033",
+          "end_ref_usfm": "MAT 14:33"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 180607,
+    "reference_id": 134126,
+    "title": "36. The Transfiguration",
+    "media_type": "Text",
+    "index_reference": "36. the transfiguration",
+    "language": "eng",
+    "content": "<video controls=\"true\" style=\"width: 100%\" src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/mp4/en/obs_36_360p.mp4\"><source src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/mp4/en/obs_36_360p.mp4\"></video><h1>36. The Transfiguration</h1><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-36-01.jpg\" alt=\"OBS Image\"><p>One day, Jesus took three of his disciples, Peter, James, and John, with him. (The disciple named John was not the same person who baptized Jesus.) They went up on a high mountain by themselves to pray.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-36-02.jpg\" alt=\"OBS Image\"><p>As Jesus was praying, his face became as bright as the sun. His clothes became as white as light, whiter than anyone on earth could make them.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-36-03.jpg\" alt=\"OBS Image\"><p>Then Moses and the prophet Elijah appeared. These men had lived on the earth hundreds of years before this. They talked with Jesus about his death, because he would soon die in Jerusalem.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-36-04.jpg\" alt=\"OBS Image\"><p>As Moses and Elijah were talking with Jesus, Peter said to Jesus, “It is good for us to be here. Let us make three shelters, one for you, one for Moses, and one for Elijah.” But Peter did not know what he was saying.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-36-05.jpg\" alt=\"OBS Image\"><p>As Peter was talking, a bright cloud came down and surrounded them. Then they heard a voice coming from the cloud. It said, “This is my Son whom I love. I am pleased with him. Listen to him.” The three disciples were terrified and fell on the ground.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-36-06.jpg\" alt=\"OBS Image\"><p>Then Jesus touched them and said, “Do not be afraid. Get up.” When they looked around, the only one still there was Jesus.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-36-07.jpg\" alt=\"OBS Image\"><p>Jesus and the three disciples went back down the mountain. Then Jesus said to them, “Do not tell anyone yet about what happened here. I will soon die and then come back to life. After that, you may tell people.”</p><p><em>A Bible story from: Matthew 17:1–9; Mark 9:2–8; Luke 9:28–36</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42009028",
+          "start_ref_usfm": "LUK 9:28",
+          "end_ref": "42009036",
+          "end_ref_usfm": "LUK 9:36"
+        },
+        {
+          "start_ref": "41009002",
+          "start_ref_usfm": "MRK 9:2",
+          "end_ref": "41009008",
+          "end_ref_usfm": "MRK 9:8"
+        },
+        {
+          "start_ref": "40017001",
+          "start_ref_usfm": "MAT 17:1",
+          "end_ref": "40017009",
+          "end_ref_usfm": "MAT 17:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

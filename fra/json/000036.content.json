@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 187035,
+    "reference_id": 134126,
+    "title": "36. La transfiguration",
+    "media_type": "Text",
+    "index_reference": "36. la transfiguration",
+    "language": "fra",
+    "content": "<h1>36. La transfiguration</h1><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-36-01.jpg\" alt=\"OBS Image\"><p>Un jour, Jésus a pris avec lui trois de ses disciples, Pierre, Jacques et Jean. (Le disciple nommé Jean n’était pas le même que celui qui avait baptisé Jésus). Ils sont montés sur une haute montagne pour être seuls et prier.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-36-02.jpg\" alt=\"OBS Image\"><p>Pendant que Jésus priait, son visage est devenu aussi brillant que le soleil. Ses vêtements sont devenus blancs comme la lumière. Aucun humain n&apos;avait pu lui-même les rendre aussi blancs.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-36-03.jpg\" alt=\"OBS Image\"><p>Puis Moïse et le prophète Élie sont apparus. Ces hommes avaient vécu sur terre des centaines d’années auparavant. Ils ont parlé avec Jésus de sa mort, parce qu’il allait bientôt mourir à Jérusalem.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-36-04.jpg\" alt=\"OBS Image\"><p>Tandis que Moïse et Élie parlaient avec Jésus, Pierre a dit à Jésus&nbsp;: «&nbsp;Il est bon que nous soyons ici. Faisons trois abris, un pour toi, un pour Moïse et un pour Élie.&nbsp;» Mais Pierre ne savait pas ce qu’il disait.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-36-05.jpg\" alt=\"OBS Image\"><p>Pendant que Pierre parlait, un nuage lumineux est descendu sur eux et les a recouverts. Puis, ils ont entendu une voix venant du nuage qui a dit&nbsp;: «&nbsp;Voici mon Fils que j’aime. Il m’est agréable. Écoutez-le.&nbsp;» Les trois disciples étaient terrifiés et sont tombés à terre.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-36-06.jpg\" alt=\"OBS Image\"><p>Alors Jésus les a touchés et a dit&nbsp;: «&nbsp;N’ayez pas peur, levez-vous&nbsp;». Quand ils ont regardé autour d’eux, il n’y avait plus que Jésus.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-36-07.jpg\" alt=\"OBS Image\"><p>Jésus et les trois disciples sont redescendus de la montagne. Alors, Jésus leur a dit&nbsp;: «&nbsp;Pour le moment, ne dites à personne ce qui s’est passé ici. Bientôt, je vais mourir, puis je vais revenir à la vie. Après cela vous pourrez le dire à d’autres.&nbsp;»</p><p><em>Une histoire biblique tirée de&nbsp;: Matthieu 17:1–9&nbsp;; Marc 9:2–8&nbsp;; Luc 9:28–36</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42009028",
+          "start_ref_usfm": "LUK 9:28",
+          "end_ref": "42009036",
+          "end_ref_usfm": "LUK 9:36"
+        },
+        {
+          "start_ref": "41009002",
+          "start_ref_usfm": "MRK 9:2",
+          "end_ref": "41009008",
+          "end_ref_usfm": "MRK 9:8"
+        },
+        {
+          "start_ref": "40017001",
+          "start_ref_usfm": "MAT 17:1",
+          "end_ref": "40017009",
+          "end_ref_usfm": "MAT 17:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

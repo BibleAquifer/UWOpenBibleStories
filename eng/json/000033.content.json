@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 180604,
+    "reference_id": 134123,
+    "title": "33. The Story of the Farmer",
+    "media_type": "Text",
+    "index_reference": "33. the story of the farmer",
+    "language": "eng",
+    "content": "<video controls=\"true\" style=\"width: 100%\" src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/mp4/en/obs_33_360p.mp4\"><source src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/mp4/en/obs_33_360p.mp4\"></video><h1>33. The Story of the Farmer</h1><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-33-01.jpg\" alt=\"OBS Image\"><p>One day, Jesus was near the shore of the lake. He was teaching a very large crowd of people. So many people came to hear him that Jesus did not have enough room to speak to them all. So he got into a boat in the water. There he sat and taught the people.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-33-02.jpg\" alt=\"OBS Image\"><p>Jesus told this story. “A farmer went out to plant some seed. As he was spreading the seed by hand, some of the seed happened to fall on the path. But birds came and ate all of that seed.”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-33-03.jpg\" alt=\"OBS Image\"><p>“Other seed fell on rocky ground, where there was very little soil. The seed in the rocky ground sprouted quickly, but its roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died.”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-33-04.jpg\" alt=\"OBS Image\"><p>“Still other seed fell among thorn bushes. This seed began to grow, but the thorns choked it out. So the plants that grew from the seed in the thorny ground did not produce any grain.”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-33-05.jpg\" alt=\"OBS Image\"><p>“Other seed fell into good soil. This seed grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. Whoever wants to follow God, let him pay attention to what I am saying!”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-33-06.jpg\" alt=\"OBS Image\"><p>This story confused the disciples. So Jesus explained, “The seed is the word of God. The path is a person who hears God’s word, but does not understand it. Then the devil takes the word away from him. That is, the devil keeps him from understanding it.”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-33-07.jpg\" alt=\"OBS Image\"><p>“The rocky ground is a person who hears God’s word and accepts it with joy. But when he suffers hardships, or when other people make him suffer, he falls away from God. That is, he stops trusting in God.”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-33-08.jpg\" alt=\"OBS Image\"><p>“The thorny ground is a person who hears God’s word. But he begins to worry about many things, and he tries to make a lot of money, and he tries to get many things. After some time, he is not able to love God any longer. So what he learned from God’s word does not make him able to please God. He is like wheat stalks that do not produce any grain.”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-33-09.jpg\" alt=\"OBS Image\"><p>“But the seed in the good soil is a person who hears the word of God, believes it, and produces fruit.”</p><p><em>A Bible story from: Matthew 13:1–23; Mark 4:1–20; Luke 8:4–15</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42008004",
+          "start_ref_usfm": "LUK 8:4",
+          "end_ref": "42008015",
+          "end_ref_usfm": "LUK 8:15"
+        },
+        {
+          "start_ref": "41004001",
+          "start_ref_usfm": "MRK 4:1",
+          "end_ref": "41004020",
+          "end_ref_usfm": "MRK 4:20"
+        },
+        {
+          "start_ref": "40013001",
+          "start_ref_usfm": "MAT 13:1",
+          "end_ref": "40013023",
+          "end_ref_usfm": "MAT 13:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

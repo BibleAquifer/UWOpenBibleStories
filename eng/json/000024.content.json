@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 180595,
+    "reference_id": 134114,
+    "title": "24. John Baptizes Jesus",
+    "media_type": "Text",
+    "index_reference": "24. john baptizes jesus",
+    "language": "eng",
+    "content": "<video controls=\"true\" style=\"width: 100%\" src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/mp4/en/obs_24_360p.mp4\"><source src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/mp4/en/obs_24_360p.mp4\"></video><h1>24. John Baptizes Jesus</h1><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-24-01.jpg\" alt=\"OBS Image\"><p>John, the son of Zechariah and Elizabeth, grew up and became a prophet. He lived in the wilderness, ate wild honey and locusts, and wore clothes made from camel hair.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-24-02.jpg\" alt=\"OBS Image\"><p>Many people came out to the wilderness to listen to John. He preached to them, saying, “Repent, for the kingdom of God is near!”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-24-03.jpg\" alt=\"OBS Image\"><p>When people heard John’s message, many of them repented from their sins, and John baptized them. Many religious leaders also came to see John, but they did not repent or confess their sins.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-24-04.jpg\" alt=\"OBS Image\"><p>John said to the religious leaders, “You poisonous snakes! Repent and change your behavior. God will cut down every tree that does not bear good fruit, and he will throw them into the fire.” John fulfilled what the prophets had said, “See, I will soon send my messenger ahead of you, who will prepare your way.”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-24-05.jpg\" alt=\"OBS Image\"><p>Some religious leaders asked John if he was the Messiah. John replied, “I am not the Messiah, but he is coming after me. He is so great that I am not even worthy to untie his sandals.”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-24-06.jpg\" alt=\"OBS Image\"><p>The next day, Jesus came for John to baptize him. When John saw him, he said, “Look! There is the Lamb of God who will take away the sin of the world.”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-24-07.jpg\" alt=\"OBS Image\"><p>John said to Jesus, “I am not worthy to baptize you. You should baptize me instead.” But Jesus said, “You should baptize me, because it is the right thing to do.” So John baptized him even though Jesus had never sinned.</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-24-08.jpg\" alt=\"OBS Image\"><p>When Jesus came up out of the water after being baptized, the Spirit of God appeared in the form of a dove and came down and rested on him. At the same time, God spoke from heaven. He said, “This is my Son. I love him, and I am very pleased with him.”</p><img src=\"https://cdn.aquifer.bible/aquifer-content/resources/UWOBS/jpg/360px/obs-en-24-09.jpg\" alt=\"OBS Image\"><p>God had told John, “The Holy Spirit will come down and stay on someone you baptize. That person is the Son of God.” There is only one God. But when John baptized Jesus, he heard God the Father speak, saw God the Son, who is Jesus, and he saw the Holy Spirit.</p><p><em>A Bible story from: Matthew 3:1–17; Mark 1:1–45; Luke 3:1–38; John 1:15–37</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        },
+        {
+          "start_ref": "40003001",
+          "start_ref_usfm": "MAT 3:1",
+          "end_ref": "40003017",
+          "end_ref_usfm": "MAT 3:17"
+        },
+        {
+          "start_ref": "41001001",
+          "start_ref_usfm": "MRK 1:1",
+          "end_ref": "41001045",
+          "end_ref_usfm": "MRK 1:45"
+        },
+        {
+          "start_ref": "43001015",
+          "start_ref_usfm": "JHN 1:15",
+          "end_ref": "43001037",
+          "end_ref_usfm": "JHN 1:37"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
