@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 674503,
+    "reference_id": 134118,
+    "title": "28. Kijana Tajiri Kiongozi",
+    "media_type": "Text",
+    "index_reference": "28. kijana tajiri kiongozi",
+    "language": "swh",
+    "content": "<h1>28. Kijana Tajiri Kiongozi</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-28-01.jpg\" alt=\"OBS Image\"><p>Siku moja, kiongozi kijana tajiri alimwendea Yesu na kumuuliza, &quot;mwalimu mwema nifanye kitu gani cha lazima ili niwe na uzima wa milele?&quot; Yesu akamwambia, &quot;kwanini unaniita mwema?&quot; Kuna mmoja tu aliye mwema naye ni Mungu. Lakini ukitaka kuwa na uzima wa milele, tii sheria za Mungu.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-28-02.jpg\" alt=\"OBS Image\"><p>&quot;Ni mambo gani nahitaji kutii?&quot; Aliuliza. Yesu akajibu, &quot;usiuwe. Usizini. Usiibe. Usidanganye. Mheshimu baba yako na mama yako, na umpende jirani yako kama unavyojipenda mwenyewe.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-28-03.jpg\" alt=\"OBS Image\"><p>Lakini kijana akasema, &quot;Nimezitii sheria hizo zote tangu nikiwa kijana. Je, nahitaji kufanya nini bado ili niishi milele? Yesu alimwangalia na akampenda.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-28-04.jpg\" alt=\"OBS Image\"><p>Yesu akajibu, kama unataka kuwa mkamilifu, nenda ukauze kila kitu ulichonacho na utoe pesa kwa maskini, na utakuwa na hazina mbinguni, kisha njoo unifuate.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-28-05.jpg\" alt=\"OBS Image\"><p>Yule kijana aliposikia alichokisema Yesu, alihuzunika sana, kwa sababu alikuwa tajiri sana na hakutaka kutoa vitu vyote alivyomiliki. Akageuka na akaenda mbali na Yesu.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-28-06.jpg\" alt=\"OBS Image\"><p>Kisha Yesu akawaambia wanafunzi wake, &quot;Ni vigumu sana kwa watu matajiri kuingia katika ufalme wa Mungu! Ndiyo, ni rahisi zaidi kwa ngamia kupita katika tundu la sindano kuliko mtu tajiri kuingia katika ufalme wa Mungu</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-28-07.jpg\" alt=\"OBS Image\"><p>Wanafunzi waliposikia alichosema Yesu, walishikwa na mshangao na kusema, &quot;Ni nani basi anaweza kuokolewa?&quot;</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-28-08.jpg\" alt=\"OBS Image\"><p>Yesu akawatazama wanafunzi na kusema, &quot;Kwa watu mambo haya hayawezekani, lakini kwa Mungu mambo yote yanawezekana&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-28-09.jpg\" alt=\"OBS Image\"><p>Petro akamwambia Yesu, &quot;Tumeacha kila kitu na kukufuata wewe. Je, tutapata thawabu gani?&quot;</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-28-10.jpg\" alt=\"OBS Image\"><p>Yesu akajibu, &quot;Kila mmoja aliyeacha nyumba, kaka, dada yake, baba, mama, watoto, au mali kwa ajili yangu atapokea mara 100 zaidi na pia atapokea uzima wa milele. Lakini wengi walio wa kwanza watakuwa wa mwisho, na wengi walio wa mwisho watakuwa wa kwanza.&quot;</p><p><em>Simulizi ya Biblia kutoka: Mathayo 19:16–30; Marko 10:17–31; Luka 18:18–30</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42018018",
+          "start_ref_usfm": "LUK 18:18",
+          "end_ref": "42018030",
+          "end_ref_usfm": "LUK 18:30"
+        },
+        {
+          "start_ref": "41010017",
+          "start_ref_usfm": "MRK 10:17",
+          "end_ref": "41010031",
+          "end_ref_usfm": "MRK 10:31"
+        },
+        {
+          "start_ref": "40019016",
+          "start_ref_usfm": "MAT 19:16",
+          "end_ref": "40019030",
+          "end_ref_usfm": "MAT 19:30"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

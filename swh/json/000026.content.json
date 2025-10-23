@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 674501,
+    "reference_id": 134116,
+    "title": "26. Yesu Anaanza Huduma yake.",
+    "media_type": "Text",
+    "index_reference": "26. yesu anaanza huduma yake.",
+    "language": "swh",
+    "content": "<h1>26. Yesu Anaanza Huduma yake.</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-26-01.jpg\" alt=\"OBS Image\"><p>Baada ya kushinda majaribu ya Ibilisi Yesu alirudi kwa nguvu za Roho mtakatifu katika mkoa wa Galilaya. Yesu alienda sehemu moja baada ya nyigine akifundisha. Kila mmoja alisema vyema juu yake.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-26-02.jpg\" alt=\"OBS Image\"><p>Yesu akaenda mji wa Nazareti alikokuwa akiishi wakati wa utoto wake. Siku ya sabato, alienda sehemu ya kuabudia. wakamkabidhi chuo cha nabii isaya ili aweze kusoma. Yesu akakifungua chuo na kusoma sehemu yake mbele za watu.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-26-03.jpg\" alt=\"OBS Image\"><p>Yesu kasema &quot;Bwana amenipa Roho wake ili kwamba nitangaze habari njema kwa maskini, uhuru kwa wafungwa, vipofu kuona, kutolewa waliodhurumiwa. huu ni mwaka wa Bwana uliokubalika.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-26-04.jpg\" alt=\"OBS Image\"><p>Tena Yesu akaa chini &quot;Kila mmoja akamsogelea na kumtazama. walijua aya aliyoisoma inamhusu masia. Yesu akasema &quot;Maneno niliyosoma mbele yenu yanatokea sasa. watu wote wakashangaa. huyu si mwana wa Yusufu&quot;? Walisema.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-26-05.jpg\" alt=\"OBS Image\"><p>Tena Yesu akasema &quot;Ni kweli kwamba hakuna nabii anayekubalika katika mji wa kwao. Wakati wa nabii Eliya, kulikuwa na wajane katika Israeli. lakini mvua iliposimama bila kunyesha kwa miaka mitatu na nusu, Mungu hakumtuma Eliya kumsaidia mwanamke mjane kutoka Israel, badala yake alikuwa ni mjane kutoka taifa tofauti&quot;</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-26-06.jpg\" alt=\"OBS Image\"><p>Yesu akaendelea kusema &quot;Kipindi cha nabii Elisha kulikuwa na watu wengi katika Israeli wenye magonjwa ya Ngozi. lakini Elisha hakumponya hata mmoja wao. lakini aliponya ugonjwa wa ngozi wa Naamani pekee aliyekuwa kamanda wa maadui wa Israel. watu waliokuwa wanamsikiliza Yesu walikuwa ni wayahudi. Kwa hiyo walipomsikia anasema hayo wakawa na hasira juu yake.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-26-07.jpg\" alt=\"OBS Image\"><p>Watu wa Nazareti wakamvuta Yesu mbali na mahali pa kuabudia na kumtupa nje ili wamwue. Lakini Yesu akaondoka Mbele yao na akauacha mji wa Nazaleti.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-26-08.jpg\" alt=\"OBS Image\"><p>Tena Yesu alienda mpaka mkoa wa Galilaya na mkutano mkubwa wakaja kwake. wakawealeta watu wengi waliokuwa wagonjwa, au walemavu, kama wasioona, kutembea, kusikia au kuongea, na Yesu akawaponya.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-26-09.jpg\" alt=\"OBS Image\"><p>Watu wengi waliokuwa na mapepo ndani yao waliletwa kwa Yesu. Kwa amri ya Yesu aliwaamuru wawatoke watu hao, na waliendelea kupiga kelele &quot;Wewe ni mwana wa Mungu!&quot; Umati wa watu walishangaa na walimwabudu Mungu.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-26-10.jpg\" alt=\"OBS Image\"><p>Tena Yesu akachagua watu kumi na wawili ambao aliwaita mitume. Mitume walizunguka na Yesu tena walijifunza kutoka kwake.</p><p><em>Simulizi ya Biblia kutoka: Matahayo 4:12–25; Marko 1:14–15; 35–39; 3:13–21; Luka 4:14–30, 38–44</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40004012",
+          "start_ref_usfm": "MAT 4:12",
+          "end_ref": "40004025",
+          "end_ref_usfm": "MAT 4:25"
+        },
+        {
+          "start_ref": "41001001",
+          "start_ref_usfm": "MRK 1:1",
+          "end_ref": "41003035",
+          "end_ref_usfm": "MRK 3:35"
+        },
+        {
+          "start_ref": "42004001",
+          "start_ref_usfm": "LUK 4:1",
+          "end_ref": "42004044",
+          "end_ref_usfm": "LUK 4:44"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

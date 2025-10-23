@@ -28,7 +28,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "UWOpenBibleStories",
-    "date_created": "2025-10-21",
+    "date_created": "2025-10-22",
     "language": "hin",
     "localizations": [
       "eng",
@@ -52,7 +52,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-21T14:54:34.721275"
+      "dateCreated": "2025-10-22T15:05:57.416013"
     },
     "idAuthorities": {
       "aquifer": {
@@ -66,7 +66,7 @@
       "primary": {
         "aquifer": {
           "UWOpenBibleStories": {
-            "timestamp": "2025-10-21T14:54:34.721275"
+            "timestamp": "2025-10-22T15:05:57.416013"
           }
         }
       },

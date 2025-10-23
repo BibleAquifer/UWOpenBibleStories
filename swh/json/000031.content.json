@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 674506,
+    "reference_id": 134121,
+    "title": "31. Yesu Atembea Juu ya Maji",
+    "media_type": "Text",
+    "index_reference": "31. yesu atembea juu ya maji",
+    "language": "swh",
+    "content": "<h1>31. Yesu Atembea Juu ya Maji</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-31-01.jpg\" alt=\"OBS Image\"><p>Kisha Yesu aliwaambia wanafunzi wapande kwenye mtumbwi na wasafiri hadi ng&apos;ambo ya ziwa wakati alipokuwa akiyaaga makutano. Baada ya Yesu kuyaaga makutano kwenda zao, alipanda mlimani ili aombe huko. Yesu alibaki huko pekee yake, na aliomba mpaka usiku wa manane.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-31-02.jpg\" alt=\"OBS Image\"><p>Wakati huo huo, wanafunzi walikuwa wakipiga kasia kwa mtumbi wao, lakini wakati wa usiku wa manane walikuwa pekee yao katikati ya ziwa. Walikuwa wakipiga kasia kwa shida kwa sababu upepo ulikuwa ukivuma kinyume chao.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-31-03.jpg\" alt=\"OBS Image\"><p>Kisha Yesu alimaliza kuomba na akaenda kwa wanafunzi. Alitembea juu ya maji akivuka ziwa mbele ya mtumbwi wao!</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-31-04.jpg\" alt=\"OBS Image\"><p>Wanafunzi walijawa na hofu kuu walipomwona Yesu, sababu walidhani walikuwa wakiona roho. Yesu hali akijua kuwa wanafunzi wake wameogopa, alipaza sauti kwao kusema, &quot;Msiogope. Ni mimi!</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-31-05.jpg\" alt=\"OBS Image\"><p>Kisha Petro akamwambia Yesu, &quot;Bwana, kama ni wewe niruhusu nije kwako juu ya maji&quot;. Yesu akamwambia Petro &quot;Njoo!&quot;</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-31-06.jpg\" alt=\"OBS Image\"><p>Hivyo, Petro akatoka kwenye mtumbwi na kuanza kutembea kwenda kwa Yesu juu ya uso wa maji. Lakini baada ya kwenda mwendo mfupi, aliyaondoa macho yake kwa Yesu na kuanza kutazama mawimbi na kuhisi nguvu ya upepo.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-31-07.jpg\" alt=\"OBS Image\"><p>Kisha Petro akashikwa na woga na kuanza kuzama ndami ya maji. Akapaza sauti kwake, &quot;Bwana, niokoe!&quot; Yesu alimwendea na kumnyakua. Kisha akamwambia Petro, &quot;Wewe mwenye imani haba, kwa nini umeona shaka?&quot;</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-31-08.jpg\" alt=\"OBS Image\"><p>Wakati Yesu na Petro walipopanda ndani ya mtumbwi, mara upepo ulikoma kuvuma na maji yakatulia. Wanafunzi wakashangaa. Wakamwabudu Yesu wakisema, &quot;Hakika, wewe ni Mwana wa Mungu&quot;.</p><p><em>Simulizi ya Biblia Kutoka: Mathayo 14:22–33;</em></p><p><em>Marko 6:45–52; Yohana 6:16–21.</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43006016",
+          "start_ref_usfm": "JHN 6:16",
+          "end_ref": "43006021",
+          "end_ref_usfm": "JHN 6:21"
+        },
+        {
+          "start_ref": "41006045",
+          "start_ref_usfm": "MRK 6:45",
+          "end_ref": "41006052",
+          "end_ref_usfm": "MRK 6:52"
+        },
+        {
+          "start_ref": "40014022",
+          "start_ref_usfm": "MAT 14:22",
+          "end_ref": "40014033",
+          "end_ref_usfm": "MAT 14:33"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

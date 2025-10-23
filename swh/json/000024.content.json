@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 674499,
+    "reference_id": 134114,
+    "title": "24. Yohana Anambatiza Yesu",
+    "media_type": "Text",
+    "index_reference": "24. yohana anambatiza yesu",
+    "language": "swh",
+    "content": "<h1>24. Yohana Anambatiza Yesu</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-01.jpg\" alt=\"OBS Image\"><p>Yohana mwana wa Zakaria na Elizabeth alikuwa na akawa nabii .Aliishi nyikani akila asali ya porini, nzige ,na kuvaa nguo zilizotengenezwa na manyoya ya ngamia.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-02.jpg\" alt=\"OBS Image\"><p>Watu wengi walimfuata Yohana nyikani kumsikiliza.Aliwahubiri akisema,&quot;tubuni kwa maana ufalme wa Mungu umekaribia&quot;</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-03.jpg\" alt=\"OBS Image\"><p>Wakati watu waliposikia ujumbe wa Yohana wengi walitubu dhambi zao na kubatizwa .Viongozi wengi wa dini walikuja kubatizwa na Yohana lakini hawakutubu wala kuungama dhambi zao .</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-04.jpg\" alt=\"OBS Image\"><p>Yohana akawaambia viongozi wa dini&quot; enyi nyoka wenye sumu! tubuni na kubadilisha tabia zenu.Kila mti usiozaa matunda mema hukatwa na kutupwa motoni. Yohana alitimiza kile kilichosemwa na manabii &quot;angalia namtuma mjumbe wangu mbele yenu ambaye atawandalia njia zenu.&quot;</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-05.jpg\" alt=\"OBS Image\"><p>Baadhi ya Wayahudi wakamwuuliza Yohana kama yeye ni Kristo ,Yohana akajibu mimi siyo Kristo lakini kuna mmoja ajaye baada yangu ambaye ni mkuu sanakwani sistahili kufungua kamba ya viatu vyake .</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-06.jpg\" alt=\"OBS Image\"><p>Siku iliyofuata Yesu alikuja ili abatizwe na Yohana .Wakati alipomwona Yohana alisema,&apos;angalia huyu ni mwanakondoo wa Mungu atakayechukua dhambi ya ulimwengu.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-07.jpg\" alt=\"OBS Image\"><p>Yohana akamwambia Yesu mimi sistahili kukubatiza wewe ila wewe unastahili kunibatiza mimi.Lakini Yesu akasema &quot;ni lazima kunibatiza mimi kwa sababu ni kitu sahihi kwa hiyo Yohana akambatizaYesu pamoja na kwamba Yesu hakuwahi kutenda dhambi.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-08.jpg\" alt=\"OBS Image\"><p>Wakati Yesu alipotoka majini baada ya kubatizwa Roho wa Mungu alitokea katika umbo la njiwa alishuka akatulia juu yake.Wakati huo sauti ya Mungu ikaongea kutoka mbinguni na kusema &quot;Wewe ni mwanangu ambaye ninakupenda na ninayependezwa naye &quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-09.jpg\" alt=\"OBS Image\"><p>Mungu akamwambia Yohana,&quot; Roho wa Mungu atakuja juu ya mtu ambaye umembatiza .Na mtu huyo ni mwana wa Mungu ,&quot;Kuna Mungu mmoja tu.Lakini wakati Yohana alipokuwa akimbatiza Yesu alisikia Baba Mungu akisema na akamuona Mungu mwana ,ambaye ni Yesu ,na akamwona Roho Mtakatifu.</p><p><em>Simulizi ya Biblia kutoka: Matayo 3; Marko1:9–11; Luka 3:1–23</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        },
+        {
+          "start_ref": "40003001",
+          "start_ref_usfm": "MAT 3:1",
+          "end_ref": "40003017",
+          "end_ref_usfm": "MAT 3:17"
+        },
+        {
+          "start_ref": "41001001",
+          "start_ref_usfm": "MRK 1:1",
+          "end_ref": "41001045",
+          "end_ref_usfm": "MRK 1:45"
+        },
+        {
+          "start_ref": "43001015",
+          "start_ref_usfm": "JHN 1:15",
+          "end_ref": "43001037",
+          "end_ref_usfm": "JHN 1:37"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 296309,
+    "reference_id": 134124,
+    "title": "34. Jesús enseña otras historias",
+    "media_type": "Text",
+    "index_reference": "34. jesús enseña otras historias",
+    "language": "spa",
+    "content": "<h1>34. Jesús enseña otras historias</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-34-01.jpg\" alt=\"OBS Image\"><p>Jesús les impartió muchas historias acerca del reino de Dios. Por ejemplo, Él dijo: “El reino de Dios es como una semilla de mostaza que alguien plantó en su campo. Ustedes saben que la semilla de mostaza es la más pequeña de todas”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-34-02.jpg\" alt=\"OBS Image\"><p>“Pero cuando la semilla de mostaza crece, se convierte en la más grande de todas las plantas del jardín, tan grande que incluso las aves llegan a descansar en sus ramas”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-34-03.jpg\" alt=\"OBS Image\"><p>Jesús les dio otra historia: “El reino de Dios es como la levadura que una mujer mezcla en la masa de pan, hasta que se esparce por toda esa masa”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-34-04.jpg\" alt=\"OBS Image\"><p>“El reino de Dios es también como un tesoro que alguien escondió en un campo. Otro hombre encontró el tesoro y lo deseó muchísimo. Así que lo enterró de nuevo. Él se alegró tanto que fue y vendió todo lo que tenía para poder comprar el terreno donde estaba el tesoro”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-34-05.jpg\" alt=\"OBS Image\"><p>“El reino de Dios es también como una perla perfecta de gran valor. Cuando un comerciante de perlas la encontró, él vendió todo lo que tenía para poder comprarla”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-34-06.jpg\" alt=\"OBS Image\"><p>Había algunas personas que pensaban que Dios les aceptaría porque hacían buenas obras. Estos despreciaban a los otros que no hacían esas buenas obras. Entonces Jesús les contó esta historia: “Había dos hombres, los cuales fueron al templo a orar. Uno de ellos era un cobrador de impuestos y el otro era un líder religioso”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-34-07.jpg\" alt=\"OBS Image\"><p>“El líder religioso oró de la siguiente manera: ‘Gracias Dios porque no soy un pecador como otros hombres, tal como los ladrones, hombres injustos, adúlteros o incluso como ese cobrador de impuestos de allá’”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-34-08.jpg\" alt=\"OBS Image\"><p>“‘Por ejemplo, yo ayuno dos veces a la semana y te doy el diez por ciento de todo el dinero y bienes que recibo’”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-34-09.jpg\" alt=\"OBS Image\"><p>“Pero el recaudador de impuestos se paró lejos del líder religioso. Ni siquiera miró al cielo. En cambio, golpeó su pecho con el puño y oró: ‘Dios, por favor, ten misericordia de mí porque soy pecador’”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-34-10.jpg\" alt=\"OBS Image\"><p>Entonces Jesús dijo: “Les digo en verdad que Dios escuchó al recolector de impuestos y lo declaró justo, pero no le agradó la oración del líder religioso. Dios deshonrará a todo aquel que sea orgulloso, pero honrará a todo aquel que se humille”.</p><p><em>Una historia bíblica de: Mateo 13:31–33, 44–46; Marcos 4:30–32; Lucas 13:18–21; 18:9–14</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41004026",
+          "start_ref_usfm": "MRK 4:26",
+          "end_ref": "41004034",
+          "end_ref_usfm": "MRK 4:34"
+        },
+        {
+          "start_ref": "42018009",
+          "start_ref_usfm": "LUK 18:9",
+          "end_ref": "42018014",
+          "end_ref_usfm": "LUK 18:14"
+        },
+        {
+          "start_ref": "42013018",
+          "start_ref_usfm": "LUK 13:18",
+          "end_ref": "42013021",
+          "end_ref_usfm": "LUK 13:21"
+        },
+        {
+          "start_ref": "40013031",
+          "start_ref_usfm": "MAT 13:31",
+          "end_ref": "40013046",
+          "end_ref_usfm": "MAT 13:46"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
