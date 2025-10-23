@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 296315,
+    "reference_id": 134130,
+    "title": "40. Jesús es crucificado",
+    "media_type": "Text",
+    "index_reference": "40. jesús es crucificado",
+    "language": "spa",
+    "content": "<h1>40. Jesús es crucificado</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-01.jpg\" alt=\"OBS Image\"><p>Después de que los soldados se burlaron de Jesús, se lo llevaron para crucificarlo. Lo hicieron cargar la cruz donde moriría.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-02.jpg\" alt=\"OBS Image\"><p>Los soldados llevaron a Jesús a un lugar llamado “la Calavera” y le clavaron sus manos y pies a la cruz. Pero Jesús dijo: “Padre perdónalos, porque no saben lo que están haciendo”. Ellos también pusieron un letrero en la cruz, sobre su cabeza, que decía: “Rey de los judíos”. Eso fue lo que Pilato les dijo que escribieran.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-03.jpg\" alt=\"OBS Image\"><p>Entonces los soldados apostaron por las ropas de Jesús. Al hacer esto, ellos cumplieron una profecía que decía: “Repartieron mis prendas de vestir entre ellos y apostaron por mi ropa”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-04.jpg\" alt=\"OBS Image\"><p>También había dos ladrones, a quienes los soldados crucificaron en esa ocasión. Ellos los colocaron uno a cada lado de Jesús. Uno de ellos se burló de Jesús, pero el otro dijo: “¿No tienes temor del castigo de Dios? Nosotros somos culpables de hacer muchas cosas malas, pero este hombre es inocente”. Entonces él le dijo a Jesús: “Por favor, recuérdame cuando seas rey en tu reino”. Jesús le respondió: “Hoy, tú estarás conmigo en el paraíso”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-05.jpg\" alt=\"OBS Image\"><p>Los líderes judíos y las otras personas en la multitud se burlaron de Jesús. Ellos le dijeron: “¡Si eres el Hijo de Dios, bájate de la cruz y sálvate! Después de eso te creeremos”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-06.jpg\" alt=\"OBS Image\"><p>Entonces el cielo en toda aquella región se puso completamente oscuro, aunque era mediodía. Se puso oscuro a mediodía y se mantuvo así por tres horas.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-07.jpg\" alt=\"OBS Image\"><p>Entonces Jesús gritó: “¡Está hecho! Padre, entrego mi espíritu en tus manos”. Entonces Él inclinó su cabeza y entregó su espíritu. Cuando Él murió, hubo un terremoto. La gran cortina que separaba la gente de la presencia de Dios en el templo, fue rota en dos, de arriba a abajo.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-08.jpg\" alt=\"OBS Image\"><p>A través de su muerte, Jesús abrió un camino para que la gente venga a Dios. Cuando un soldado que custodiaba a Jesús vio todo lo que había pasado, dijo: “Verdaderamente, este hombre era inocente. Él era el Hijo de Dios”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-09.jpg\" alt=\"OBS Image\"><p>Entonces vinieron dos líderes judíos, uno se llamaba José y el otro Nicodemo. Ellos creían que Jesús era el Mesías, por lo que solicitaron a Pilato el cuerpo de Jesús. Ellos envolvieron su cuerpo en telas. Luego lo trasladaron a una tumba excavada en roca y lo colocaron dentro. Entonces rodaron una gran piedra delante de la tumba para bloquear la entrada.</p><p><em>Una historia bíblica de: Mateo 27:27–61; Marcos 15:16–47; Lucas 23:26–56; Juan 19:17–42</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40027027",
+          "start_ref_usfm": "MAT 27:27",
+          "end_ref": "40027061",
+          "end_ref_usfm": "MAT 27:61"
+        },
+        {
+          "start_ref": "41015016",
+          "start_ref_usfm": "MRK 15:16",
+          "end_ref": "41015047",
+          "end_ref_usfm": "MRK 15:47"
+        },
+        {
+          "start_ref": "42023026",
+          "start_ref_usfm": "LUK 23:26",
+          "end_ref": "42023056",
+          "end_ref_usfm": "LUK 23:56"
+        },
+        {
+          "start_ref": "43019017",
+          "start_ref_usfm": "JHN 19:17",
+          "end_ref": "43019042",
+          "end_ref_usfm": "JHN 19:42"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

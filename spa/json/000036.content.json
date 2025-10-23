@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 296311,
+    "reference_id": 134126,
+    "title": "36. La transfiguración",
+    "media_type": "Text",
+    "index_reference": "36. la transfiguración",
+    "language": "spa",
+    "content": "<h1>36. La transfiguración</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-36-01.jpg\" alt=\"OBS Image\"><p>Cierto día, Jesús tomó tres de sus discípulos con Él: Pedro, Santiago y Juan (El discípulo llamado Juan no era la misma persona que bautizó a Jesús). Subieron una montaña alta para orar.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-36-02.jpg\" alt=\"OBS Image\"><p>Mientras Jesús oraba, su rostro se puso tan brillante como el Sol. Sus ropas se tornaron tan blancas como la luz, que nadie en la tierra podría hacer unas ropas así de blancas.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-36-03.jpg\" alt=\"OBS Image\"><p>Entonces Moisés y el profeta Elías se aparecieron. Estos hombres habían vivido en la tierra cientos de años antes de esto. Ellos hablaron con Jesús acerca de su muerte, porque Él pronto moriría en Jerusalén.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-36-04.jpg\" alt=\"OBS Image\"><p>Mientras Moisés y Elías hablaban con Jesús, Pedro dijo a Jesús: “Es bueno que estemos aquí. Hagamos tres refugios, uno para ti, uno para Moisés y otro para Elías”. Pero Pedro no sabía lo que decía.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-36-05.jpg\" alt=\"OBS Image\"><p>Mientras Pedro hablaba, descendió una nube brillante y los rodeó a todos. Entonces todos oyeron una voz que venía de la nube, que decía: “Este es mi Hijo, a quien amo. Me complazco en Él, escúchenlo”. Los tres discípulos estaban aterrados y cayeron al suelo.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-36-06.jpg\" alt=\"OBS Image\"><p>Entonces Jesús los tocó y les dijo: “No tengan temor. Levántense”. Cuando miraron a su alrededor, el único que permanecía allí era Jesús.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-36-07.jpg\" alt=\"OBS Image\"><p>Jesús y sus tres discípulos regresaron de la montaña. Entonces Jesús les dijo: “Todavía no le cuenten a nadie lo que pasó aquí. Pronto moriré y volveré de la muerte a la vida. Después de eso, podrán contarle a la gente”.</p><p><em>Una historia bíblica de: Mateo 17:1–9; Marcos 9:2–8; Lucas 9:28–36</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42009028",
+          "start_ref_usfm": "LUK 9:28",
+          "end_ref": "42009036",
+          "end_ref_usfm": "LUK 9:36"
+        },
+        {
+          "start_ref": "41009002",
+          "start_ref_usfm": "MRK 9:2",
+          "end_ref": "41009008",
+          "end_ref_usfm": "MRK 9:8"
+        },
+        {
+          "start_ref": "40017001",
+          "start_ref_usfm": "MAT 17:1",
+          "end_ref": "40017009",
+          "end_ref_usfm": "MAT 17:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

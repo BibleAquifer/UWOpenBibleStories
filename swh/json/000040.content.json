@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 674515,
+    "reference_id": 134130,
+    "title": "40. Yesu Anasulubiwa",
+    "media_type": "Text",
+    "index_reference": "40. yesu anasulubiwa",
+    "language": "swh",
+    "content": "<h1>40. Yesu Anasulubiwa</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-01.jpg\" alt=\"OBS Image\"><p>Baada ya askari kumdhihaki Yesu, walimpeleka kumsulibisha. walimlazimisha aubebe msalaba ambao ungetumika kumuua.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-02.jpg\" alt=\"OBS Image\"><p>Askari walimpeleka Yesu eneo liitwalo &quot;fuvu la kichwa&quot; wakaipigilia miguu na mikono yake msalabani. Lakini Yesu akasema, &quot;Baba wasamehe, kwa sababu hawajui wanalotenda.&quot; Pilato akaagiza waandike kwamba, &quot;Mfalme wa Wayahudi&quot; ikiwa ni ishara; na waweke msalabani, juu ya kichwa cha Yesu.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-03.jpg\" alt=\"OBS Image\"><p>Askari walipigia kura mavazi yake. Na kitendo hiki kinatimiza unabii usemao kwamba, &quot; wakagawana nguo zangu na kucheza kamali.&quot;</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-04.jpg\" alt=\"OBS Image\"><p>Yesu alisulibiwa katikati ya wanyang&apos;anyi wawili; mmojawapo alimdhihaki Yesu, lakini mwingine alisema, &quot;Humwogopi Mungu!? Sisi tunahatia, lakini huyu hana hatia&quot; Ndipo yeye akamwabia Yesu &quot;Tafadhali unikumbuke katika ufalme wako&quot; Yesu akamjibu, leo, utakuwa nami Paradiso.&quot;</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-05.jpg\" alt=\"OBS Image\"><p>Viongozi wa wayahudi na baadhi ya wengine katika umati walimdhihaki Yesu. Wakisema, &quot;kama wewe ni Mwana wa Mungu, shuka msalabani, jiokoe mwenyewe, ndipo tutakuamini.&quot;</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-06.jpg\" alt=\"OBS Image\"><p>Ndipo katika eneo hilo kukawa giza nene, ingawa ilikuwa mchana. Mchana huo kukawa giza kwa saa tatu.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-07.jpg\" alt=\"OBS Image\"><p>Yesu akalia, &quot;Baba imekwisha naweka mikononi mwako roho yangu.&quot; Ndipo akainama akajitoa mwenyewe roho yake. Alipokufa lilitokea tetemeko la ardhi na pazia la hekaluni lililowatenga watu na Mungu lilipasuka vipande viwili, tokea juu hadi chini.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-08.jpg\" alt=\"OBS Image\"><p>Kifo chake Yesu kinafungua njia ili watu waje kwa Mungu. Askari aliyemlinda Yesu alipoona mambo haya yote yanatokea alisema, &quot;Hakika mtu huyu hakuwa na hatia, alikuwa Mwana wa Mungu.&quot;</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-40-09.jpg\" alt=\"OBS Image\"><p>Na ndipo Yusufu na Nikodemo viongozi wa Wayahudi walioamini Yesu kuwa ni Masihi wakauomba mwili wa Yesu na kuufunga kwenye sanda na kupeleka kwenye kaburi lililochongwa tayari mwambani na wakasogeza jiwe kubwa kulifunga kaburi.</p><p><em>Simulizi ya Biblia kutoka: Mathayo 27:27–61; Marko 15:16–47; Luka 23:26–56; Yohana 19: 17–42</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40027027",
+          "start_ref_usfm": "MAT 27:27",
+          "end_ref": "40027061",
+          "end_ref_usfm": "MAT 27:61"
+        },
+        {
+          "start_ref": "41015016",
+          "start_ref_usfm": "MRK 15:16",
+          "end_ref": "41015047",
+          "end_ref_usfm": "MRK 15:47"
+        },
+        {
+          "start_ref": "42023026",
+          "start_ref_usfm": "LUK 23:26",
+          "end_ref": "42023056",
+          "end_ref_usfm": "LUK 23:56"
+        },
+        {
+          "start_ref": "43019017",
+          "start_ref_usfm": "JHN 19:17",
+          "end_ref": "43019042",
+          "end_ref_usfm": "JHN 19:42"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

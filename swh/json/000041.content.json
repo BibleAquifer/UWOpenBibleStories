@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 674516,
+    "reference_id": 134131,
+    "title": "41. Mungu Anamfufua Yesu kutoka katika Wafu",
+    "media_type": "Text",
+    "index_reference": "41. mungu anamfufua yesu kutoka katika wafu",
+    "language": "swh",
+    "content": "<h1>41. Mungu Anamfufua Yesu kutoka katika Wafu</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-41-01.jpg\" alt=\"OBS Image\"><p>Baada ya askari kuwa wamemsulubisha Yesu, viongozi wa Kiyahudi wasioamini walimwambia Pilato, &quot;Yule Muongo, Yesu, alisema angefufuka baada ya siku tatu. Mtu mmoja lazima alilinde kaburi ili kujihakikishia kwamba wanafunzi wake hawatauiba mwili wake na kusema amefufuka kutoka katika wafu.&quot;</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-41-02.jpg\" alt=\"OBS Image\"><p>Pilato alisema, &quot;Chukueni baadhi ya askari na muhakikishe kaburi limelindwa ipasavyo.&quot; Hivyo wakaweka muhuri kwenye jiwe katika mlango wa kuingilia kaburini na kuweka maaskari ili kuhakikisha kwamba hakuna mtu yeyote ambaye angeuiba mwili.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-41-03.jpg\" alt=\"OBS Image\"><p>Siku iliyofuata baada ya Yesu kuzikwa ilikuwa ni Sabato, na wayahudi hawakuruhusiwa kwenda kaburini siku hiyo. Hivyo asubuhi na mapema baada ya Sabato, wanawake wengi walijiandaa kwenda kwenye kaburi la Yesu kuupaka mwili wa Yesu marashi ya maziko.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-41-04.jpg\" alt=\"OBS Image\"><p>Ghafla, kulikuwa na tetemeko kubwa. Malaika ambaye mng&apos;ao wake ulikuwa kama mng&apos;ao wa mwanga wa radi alitokea kutoka mbinguni. Aliliviringisha mbali lile jiwe lilokuwa limeufunika mlango wa kaburi na kulikalia. Askari waliokuwa wanalilinda kaburi waliogopa sana na kuanguka chini na kuwa kama watu waliokufa.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-41-05.jpg\" alt=\"OBS Image\"><p>Wale wanawake walipofika kaburini, malaika aliwaambia. &quot;Msiogope. Yesu hayupo hapa. Amefufuka kutoka katika wafu, kama alivyosema kwamba atafufuka! Angalieni kaburini na muone.&quot; Wale wanawake wakaangalia mle kaburini na kupaona mahali mwili wa Yesu ulipokuwa umelazwa. Mwili wake haukuwepo pale!</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-41-06.jpg\" alt=\"OBS Image\"><p>Malaika akawaambia wale wanawake, &quot;Nendeni na mkawaambie wanafunzi, &apos;Kwamba Yesu amefufuka kutoka katika wafu na atawatangulia kwenda Galilaya.&quot;</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-41-07.jpg\" alt=\"OBS Image\"><p>Wanawake walijawa na hofu na furaha kuu. Wakakimbia kwenda kuwaambia wanafunzi habari njema.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-41-08.jpg\" alt=\"OBS Image\"><p>Wale wanawake walipokuwa wanaenda kuwaambia wanafunzi wake habari njema, Yesu aliwatokea wale wanawake, nao wakamuabudu. Yesu akasema, &quot;Msiogope. Nendeni mkawaambie wanafunzi wangu waende Galilaya.Wataniona huko.&quot;</p><p><em>Simulizi ya Biblia kutoka: Mathayo 27:62–28:15; Marko 16:1–11; Luka 24:1–12; Yohana 20:1–18</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42024001",
+          "start_ref_usfm": "LUK 24:1",
+          "end_ref": "42024012",
+          "end_ref_usfm": "LUK 24:12"
+        },
+        {
+          "start_ref": "43020001",
+          "start_ref_usfm": "JHN 20:1",
+          "end_ref": "43020018",
+          "end_ref_usfm": "JHN 20:18"
+        },
+        {
+          "start_ref": "40027062",
+          "start_ref_usfm": "MAT 27:62",
+          "end_ref": "40028015",
+          "end_ref_usfm": "MAT 28:15"
+        },
+        {
+          "start_ref": "41016001",
+          "start_ref_usfm": "MRK 16:1",
+          "end_ref": "41016011",
+          "end_ref_usfm": "MRK 16:11"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

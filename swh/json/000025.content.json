@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 674500,
+    "reference_id": 134115,
+    "title": "25. Shetani Anamjaribu Yesu",
+    "media_type": "Text",
+    "index_reference": "25. shetani anamjaribu yesu",
+    "language": "swh",
+    "content": "<h1>25. Shetani Anamjaribu Yesu</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-25-01.jpg\" alt=\"OBS Image\"><p>Mara tu Yesu alipokwisha kubatizwa, Roho Mtakatifu alimwongoza Yesu nyikani, huko alifunga siku arobaini mchana na usiku. kisha Shetani alifika kumjaribu Yesu ili atende dhambi.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-25-02.jpg\" alt=\"OBS Image\"><p>Shetani alimjaribu Yesu akisema; &quot;Kama wewe ni mwana wa Mungu yaamuru mawe haya yawe mikate upate kula&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-25-03.jpg\" alt=\"OBS Image\"><p>Yesu akajibu; &quot;Imeandikwa katika neno la Mungu, watu hawahitaji mkate pekee ili wapate kuishi, bali wanahitaji kila neno linalosemwa na Mungu&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-25-04.jpg\" alt=\"OBS Image\"><p>Kisha Shetani alimchukua Yesu mpaka juu ya mnara wa hekalu na kumwambia; &quot;Kama wewe ni Mwana wa Mungu jirushe mwenyewe chini, kwa vile imeandikwa, Mungu atakuagizia malaika wake wakuchukue ili usijigonge mguu wako katika jiwe&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-25-05.jpg\" alt=\"OBS Image\"><p>Lakini Yesu alimjibu Shetani kwa kunukuu Maandiko akisema; &quot; Katika neno la Mungu, anaagiza watu wake, usimjaribu Bwana Mungu wako&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-25-06.jpg\" alt=\"OBS Image\"><p>Kisha Shetani alimwonyesha Yesu falme zote za ulimwengu na fahari zake zote na akasema; &quot;Nitakupa hivi vyote iwapo utanisujudia na kuniabudu mimi&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-25-07.jpg\" alt=\"OBS Image\"><p>Yesu akajibu; ondoka kwangu Shetani! Katika neno la Mungu ameagiza, &quot;Mwabudu Bwana Mungu wako na kumtumikia Yeye peke yake&quot;.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-25-08.jpg\" alt=\"OBS Image\"><p>Yesu hakujitia chini ya majaribu ya Shetani, hivyo Shetani aliondoka akamwacha. kisha malaika walikuja na kumhudumia Yesu.</p><p><em>Simulizi ya Biblia Kutoka: Mathayo 4:1–11;</em></p><p><em>Marko 1:12–13; Luka 4:1–13</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42004001",
+          "start_ref_usfm": "LUK 4:1",
+          "end_ref": "42004013",
+          "end_ref_usfm": "LUK 4:13"
+        },
+        {
+          "start_ref": "40004001",
+          "start_ref_usfm": "MAT 4:1",
+          "end_ref": "40004011",
+          "end_ref_usfm": "MAT 4:11"
+        },
+        {
+          "start_ref": "41001012",
+          "start_ref_usfm": "MRK 1:12",
+          "end_ref": "41001013",
+          "end_ref_usfm": "MRK 1:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

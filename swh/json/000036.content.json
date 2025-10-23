@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 674511,
+    "reference_id": 134126,
+    "title": "36. Kubadilika Sura",
+    "media_type": "Text",
+    "index_reference": "36. kubadilika sura",
+    "language": "swh",
+    "content": "<h1>36. Kubadilika Sura</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-36-01.jpg\" alt=\"OBS Image\"><p>Siku moja, Yesu aliwachukua wanafunzi wake watatu Yakobo, Petro na Yohana. ( Mwanafunzi aitwae Yohana sio yule aliyembatiza Yesu.) Walipanda juu ya mlima mrefu kuomba pekeyao.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-36-02.jpg\" alt=\"OBS Image\"><p>Yesu akiwa anaomba uso wake ulibadilika na kung&apos;aa kama jua na mavazi yake yakawa meupe kama mwanga, yalikua meupe sana zaidi awezavyo mtu duniani kuyafanya yang&apos;ae.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-36-03.jpg\" alt=\"OBS Image\"><p>Ndipo Musa na nabii Eliya wakawatokea. Watu hawa waliishi duniani miaka mingi kabla. Waliongea na Yesu juu ya kifo chake ambacho kitatokea Yerusalemu siku chache baadae.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-36-04.jpg\" alt=\"OBS Image\"><p>Wakati Musa na Eliya wanaongea na Yesu, Petro akamwambia Yesu, &quot;Ni vizuri sisi kuwa hapa, hivyo naomba tutengeneze nyumba tatu moja ya kwako, nyingine ya Eliya na nyingine ya Musa&quot;. Lakini Petro hakujua alinenalo.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-36-05.jpg\" alt=\"OBS Image\"><p>Wakati Petro anaongea wingu jeupe lilishuka na kuwazunguka na sauti ikatoka katika lile wingu ikisema &quot; Huyu ni Mwanagu nimpendaye. Ninayependezwa naye msikilizeni yeye&quot;.Wale wanafunzi watatu waliogopa na kuanguka chini.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-36-06.jpg\" alt=\"OBS Image\"><p>Ndipo Yesu akawagusa na kuwaambia &quot;Msiogope inukeni&quot;. walipotazama pembeni ni Yesu pekee ndiye aliyebaki pale.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-36-07.jpg\" alt=\"OBS Image\"><p>Yesu pamoja na wanafunzi wake watatu wakashuka kutoka mlimani. Yesu akawaambia &quot;Msimwambie mtu yeyote yale yaliyotokea, siku chache baadae nitakufa kisha nitakua hai tena. Baada ya hapo mtawaambia watu.&quot;</p><p><em>Simulizi ya Biblia kutoka: Mathayo 17: 1–9; Marko 9:2–8; Luka 9:28–36</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42009028",
+          "start_ref_usfm": "LUK 9:28",
+          "end_ref": "42009036",
+          "end_ref_usfm": "LUK 9:36"
+        },
+        {
+          "start_ref": "41009002",
+          "start_ref_usfm": "MRK 9:2",
+          "end_ref": "41009008",
+          "end_ref_usfm": "MRK 9:8"
+        },
+        {
+          "start_ref": "40017001",
+          "start_ref_usfm": "MAT 17:1",
+          "end_ref": "40017009",
+          "end_ref_usfm": "MAT 17:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

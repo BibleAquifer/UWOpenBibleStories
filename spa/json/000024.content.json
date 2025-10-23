@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 296299,
+    "reference_id": 134114,
+    "title": "24. Juan bautiza a Jesús",
+    "media_type": "Text",
+    "index_reference": "24. juan bautiza a jesús",
+    "language": "spa",
+    "content": "<h1>24. Juan bautiza a Jesús</h1><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-01.jpg\" alt=\"OBS Image\"><p>Juan, el hijo de Zacarías y Elisabet, creció y se convirtió en profeta. Vivía en el desierto, comía miel silvestre y langostas, y usaba ropa hecha de pelo de camello.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-02.jpg\" alt=\"OBS Image\"><p>Muchas personas iban al desierto para escuchar a Juan. Él les predicaba diciendo: “¡Arrepiéntanse, porque el reino de Dios está cerca!”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-03.jpg\" alt=\"OBS Image\"><p>Cuando la gente escuchaba el mensaje de Juan, muchos se arrepentían de sus pecados y Juan los bautizaba. Muchos líderes religiosos también fueron a ver a Juan, pero no se arrepintieron ni confesaron sus pecados.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-04.jpg\" alt=\"OBS Image\"><p>Juan les dijo a los líderes religiosos: “¡Ustedes, serpientes venenosas! Arrepiéntanse y cambien su comportamiento. Dios cortará todos los árboles que no den buenos frutos, y los echará al fuego”. Juan cumplió lo que habían dicho los profetas: “Mira, pronto enviaré mi mensajero delante de ti, que te preparará el camino”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-05.jpg\" alt=\"OBS Image\"><p>Algunos líderes religiosos le preguntaron a Juan si él era el Mesías. Juan respondió: “Yo no soy el Mesías, pero Él viene después de mí. Es tan grandioso que ni siquiera soy digno de desatar sus sandalias”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-06.jpg\" alt=\"OBS Image\"><p>Al día siguiente, Jesús vino a buscar a Juan para que lo bautizara. Cuando Juan lo vio, dijo: “¡Miren! Ahí está el Cordero de Dios que quitará el pecado del mundo”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-07.jpg\" alt=\"OBS Image\"><p>Juan le dijo a Jesús: “Yo no soy digno de bautizarte. Más bien, deberías ser Tú quien me bautice”. Pero Jesús le dijo: “Debes bautizarme tú, porque es lo correcto”. Así que Juan lo bautizó, aunque Jesús nunca había pecado.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-08.jpg\" alt=\"OBS Image\"><p>Cuando Jesús salió del agua después de ser bautizado, el Espíritu de Dios apareció en forma de paloma y descendió y se posó sobre Él. Al mismo tiempo, Dios habló desde el cielo. Él dijo: “Este es mi Hijo. Lo amo y estoy muy complacido con Él”.</p><img src=\"https://cdn.door43.org/obs/jpg/360px/obs-en-24-09.jpg\" alt=\"OBS Image\"><p>Dios le había dicho a Juan: “El Espíritu Santo bajará y se posará sobre alguien que tú bautices. Esa persona es el Hijo de Dios”. Solo hay un Dios. Pero cuando Juan bautizó a Jesús, él oyó hablar a Dios el Padre, vio a Dios el Hijo, que es Jesús, y vio al Espíritu Santo.</p><p><em>Una historia bíblica de: Mateo 3; Marcos 1; Lucas 3; Juan 1:15–37</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        },
+        {
+          "start_ref": "40003001",
+          "start_ref_usfm": "MAT 3:1",
+          "end_ref": "40003017",
+          "end_ref_usfm": "MAT 3:17"
+        },
+        {
+          "start_ref": "41001001",
+          "start_ref_usfm": "MRK 1:1",
+          "end_ref": "41001045",
+          "end_ref_usfm": "MRK 1:45"
+        },
+        {
+          "start_ref": "43001015",
+          "start_ref_usfm": "JHN 1:15",
+          "end_ref": "43001037",
+          "end_ref_usfm": "JHN 1:37"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
