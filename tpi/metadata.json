@@ -1,7 +1,7 @@
 {
   "resource_metadata": {
     "aquifer_type": "Dictionary",
-    "resource_type": "Foundational Bible Stores",
+    "resource_type": "Foundational Bible Stories",
     "title": "Open Bible Stories (unfoldingWord)",
     "aquifer_name": "Stori bilong Baibel (unfoldingWord)",
     "collection_title": "Open Bible Stories (unfoldingWord)",
@@ -28,7 +28,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "UWOpenBibleStories",
-    "date_created": "2025-10-22",
+    "date_created": "2025-10-27",
     "language": "tpi",
     "localizations": [
       "eng",
@@ -52,7 +52,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-22T15:06:00.094763"
+      "dateCreated": "2025-10-27T14:30:36.823323"
     },
     "idAuthorities": {
       "aquifer": {
@@ -66,7 +66,7 @@
       "primary": {
         "aquifer": {
           "UWOpenBibleStories": {
-            "timestamp": "2025-10-22T15:06:00.094763"
+            "timestamp": "2025-10-27T14:30:36.823323"
           }
         }
       },
