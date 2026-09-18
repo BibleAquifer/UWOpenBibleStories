@@ -1,4 +1,4 @@
-# _Open Bible Stories (unfoldingWord)_ Aquifer Resource
+# _unfoldingWord® Open Bible Stories_ Aquifer Resource
 
 This repository (`UWOpenBibleStories`) contains Aquifer resource data with resource-level metadata, article-level metadata, and content files in JSON and Markdown formats.
 
@@ -7,6 +7,10 @@ This repository (`UWOpenBibleStories`) contains Aquifer resource data with resou
 _unfoldingWord® Open Bible Stories_ © 2022 [unfoldingWord](https://unfoldingword.org/utw)
 
 This resource is licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) license.
+
+**unfoldingWord® Open Bible Stories** © 2022 unfoldingWord. Released under CC BY\-SA 4\.0 license. *unfoldingWord® Open Bible Stories* has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from *unfoldingWord® Open Bible Stories* © 2022 unfoldingWord. Released under CC BY\-SA 4\.0 license by Mission Mutual
+
+
 
 ## Structure
 
